@@ -31,7 +31,7 @@ instagram = ""
 linkedin = ""
 mastodon = ""
 recent_posts_number = 2
-twitter = "https://twitter.com/GoHugoIO"
+twitter = ""
 youtube = ""
 [sitemap]
 changefreq = "monthly"
