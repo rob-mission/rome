@@ -23,3 +23,5 @@ fields:
 - type: list
   name: related_posts
   label: related_posts
+pages:
+- content/post/1-petrus-waarom-vreemdelingen-worden-vervolgd.md
