@@ -5,6 +5,7 @@ description: De relevantie van zijn boodschap voor de kerk en de christen van va
 images:
 - "/uploads/LloydJones.png"
 featured_image: "/uploads/LloydJones.png"
+omit_header_text: true
 tags: []
 related_posts: []
 

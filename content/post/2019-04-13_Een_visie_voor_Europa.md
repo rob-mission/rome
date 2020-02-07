@@ -5,7 +5,7 @@ related_posts: []
 description: Johannes Calvijn
 tags: []
 featured_image: "/uploads/blog/Calvijn.png"
-
+omit_header_text: true
 ---
 Waarom is hij gekozen? Waarom Calvijn? Een student vroeg me eens "Is hij niet degene die schreef over predestinatie? Hoe kan je dan missionair werk doen?" Wacht even voordat je Calvijn terug op de plank zet.
 

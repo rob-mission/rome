@@ -5,7 +5,7 @@ description: Genesis 38
 tags: []
 related_posts: []
 featured_image: "/uploads/blog/Juda.png"
-
+omit_header_text: true
 ---
 Soms moet je naar een andere plaats verhuizen om je leven een nieuw begin te geven. Dit is wat gebeurde in het leven van Juda en Jozef. Twee verhalen, twee broers en beiden verlieten hun familie. Jozef, Rachels zoon, werd in het geheim verkocht aan handelaren. Juda, de initiatiefnemer, besloot te verhuizen. Met opzet vestigde hij zich met zijn vriend Hira, een vreemdeling, op Kanaänitisch grondgebied. Door dit te doen, bracht Juda zijn _identiteit_, als iemand die hoort bij het uitverkoren volk van God, in direct gevaar. Maar, zelfs voordat Juda vertrok, bracht God Jozef naar Egypte.
 

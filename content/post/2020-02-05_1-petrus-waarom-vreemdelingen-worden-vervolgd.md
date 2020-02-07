@@ -5,6 +5,7 @@ description: '1 Petrus: waarom vreemdelingen worden vervolgd'
 images:
 - "/uploads/blog/1Petrus.jpeg"
 featured_image: "/uploads/blog/1Petrus.jpeg"
+omit_header_text: true
 tags: []
 related_posts: []
 
