@@ -2,28 +2,28 @@
 label: BlogPost
 hide_body: false
 fields:
-- type: datetime
-  name: date
-  label: date
 - type: text
   name: title
   label: title
+- type: datetime
+  name: date
+  label: date
+- name: omit_header_text
+  type: boolean
+  label: Hide titles
+  default: true
 - type: text
   name: description
   label: description
-- type: image_gallery
-  name: images
-  label: images
-- type: file
-  name: featured_image
-  label: featured_image
 - type: list
   name: tags
   label: tags
 - type: list
   name: related_posts
   label: related_posts
-- name: omit_header_text
-  type: boolean
-  label: Hide titles
-  default: true
+- type: file
+  name: featured_image
+  label: featured_image
+- type: image_gallery
+  name: images
+  label: images

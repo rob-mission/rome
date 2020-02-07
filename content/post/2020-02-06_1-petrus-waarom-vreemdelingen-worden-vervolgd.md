@@ -1,5 +1,5 @@
 ---
-date: 2020-02-05T23:00:00+00:00
+date: 2020-02-06T22:00:00+00:00
 title: '1 Petrus: waarom vreemdelingen worden vervolgd'
 description: '1 Petrus: waarom vreemdelingen worden vervolgd'
 images:
