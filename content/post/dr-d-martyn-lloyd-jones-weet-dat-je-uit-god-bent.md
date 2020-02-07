@@ -1,7 +1,7 @@
 ---
 date: 2020-02-06T23:00:00+00:00
 title: 'Dr. D. Martyn Lloyd-Jones: Weet dat je uit God bent!'
-description: 'Dr. D. Martyn Lloyd-Jones: Weet dat je uit God bent!'
+description: De relevantie van zijn boodschap voor de kerk en de christen van vandaag.
 images:
 - "/uploads/LloydJones.png"
 featured_image: "/uploads/LloydJones.png"
@@ -9,8 +9,6 @@ tags: []
 related_posts: []
 
 ---
-## Dr. D. Martyn Lloyd-Jones: Weet dat je uit God bent!
-
 #### De relevantie van zijn boodschap voor de kerk en de christen van vandaag.
 
 Martyn Lloyd-Jones (1899-1981), de grote prediker van de 20e eeuw, staat wel bekend als “_the doctor_”. In zijn jonge jaren startte hij een veelbelovende carrière in de geneeskunde, maar hij besloot deze medische wereld te verlaten om zijn leven te wijden aan het verkondigen van het Evangelie. Lloyd Jones was ervan overtuigd dat het echte probleem waar zijn patiënten tegen aan liepen niet hun ziekte was; hij besefte dat er een dieper gelegen probleem was dat gediagnosticeerd en aangepakt moest worden: de zonde!
