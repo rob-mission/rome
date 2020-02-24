@@ -10,6 +10,5 @@ related_posts: []
 featured_image: "/uploads/De andere Maria.docx"
 images:
 - "/uploads/maria.jpg"
-draft: true
 
 ---
