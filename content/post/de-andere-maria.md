@@ -3,8 +3,7 @@ omit_header_text: true
 title: De andere Maria
 date: 2020-02-23T23:00:00+00:00
 description: De Rooms Katholieke Catechismus stelt dat zij “op heel bijzondere wijze
-  meegewerkt [heeft] aan het werk van de Verlosser door haar gehoorzaamheid, geloof,
-  hoop en haar vurige liefde om het bovennatuurlijk leven van de ziel te herstellen.
+  meegewerkt [heeft] aan het werk van de Verlosser...
 tags: []
 related_posts: []
 featured_image: "/uploads/maria-1.jpg"
