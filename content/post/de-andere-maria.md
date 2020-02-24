@@ -12,8 +12,6 @@ images:
 - "/uploads/maria.jpg"
 
 ---
-**De andere Maria**
-
 In gesprekken met Rooms-Katholieke gelovigen is het onmogelijk om Maria te passeren of te negeren. Denk hierbij ook aan de feesten zoals Maria Hemelvaart of de viering van de onbevlekte ontvangenis van Maria. Is het terecht dat zij de titels draagt zoals onbevlekte maagd, de koningin van het universum, de Moeder Gods, voorspreekster, een middelares in het verlossingswerk van Jezus Christus, helpster en bijstand? Was Maria daadwerkelijk vol van genade? Leidde zij een maagdelijk leven en was zij vrij van de erfzonde?
 
 **De maagdelijke Maria**  
