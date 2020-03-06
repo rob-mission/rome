@@ -1,7 +1,6 @@
 ---
 title: About Rob
 featured_image: "/uploads/portret/portret_villa_borghese.jpg"
-description: About Rob
 heading: About Rob
 sub_heading: 
 layout: landing-page
@@ -10,9 +9,9 @@ publish_date: 2017-12-01T04:00:00.000+00:00
 show_staff: false
 content: About Rob
 menu:
-  navigation:
-    identifier: _about
-    weight: 1
+navigation:
+identifier: _contact
+weight: 1
 
 ---
 Work

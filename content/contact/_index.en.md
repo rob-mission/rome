@@ -9,6 +9,7 @@ show_staff: false
 textline: Contact
 menu:
 navigation:
+identifier: _contact
 weight: 5
 title: Keep in Touch
 ---## CONTACT

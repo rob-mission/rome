@@ -9,8 +9,9 @@ show_staff: false
 textline: JOIN THE MOVEMENT
 content: Invest
 menu:
-  navigation:
-    weight: 4
+navigation:
+identifier: _join
+weight: 3
 
 ---
 ## Investeren
