@@ -11,8 +11,9 @@ menu:
 navigation:
 identifier: _contact
 weight: 5
-title: Keep in Touch
----## CONTACT
+
+---
+## CONTACT
 
 Thanks for your interest in this ministry in Rome. For more information, feel free to get in touch and we will get back to you soon!
 

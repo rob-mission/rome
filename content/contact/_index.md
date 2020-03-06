@@ -11,7 +11,8 @@ menu:
 navigation:
 identifier: _contact
 weight: 5
----## CONTACT
+---
+## CONTACT
 
 Bedankt voor uw interesse in deze bediening in Rome. Neem voor meer informatie contact met ons op.
 
