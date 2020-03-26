@@ -8,9 +8,7 @@ description: Wanneer het gaat over de opdracht van de christelijke gemeente, wor
   woorden worden ook wel zo uitgelegd dat gelovigen geroepen worden om hun spullen
   te pakken en te vertrekken naar een andere plaats om daar tot zegen te zijn. Is
   dat werkelijk zo?
-tags:
-- 1 Petrus
-- Missie
+tags: []
 related_posts: []
 featured_image: "/uploads/david-iskander-GTnFf_44e7o-unsplash.jpg"
 images: []
