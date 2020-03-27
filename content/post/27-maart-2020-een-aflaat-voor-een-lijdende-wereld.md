@@ -8,7 +8,7 @@ description: 'Op 27 maart 2020 om 18.00 uur, in het midden van deze verschrikkel
   wereld. '
 tags: []
 related_posts: []
-featured_image: "/uploads/Afbeelding1.jpg"
+featured_image: ''
 images:
 - "/uploads/Afbeelding1.jpg"
 
