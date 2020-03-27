@@ -8,9 +8,9 @@ description: 'Op 27 maart 2020 om 18.00 uur, in het midden van deze verschrikkel
   wereld. '
 tags: []
 related_posts: []
-featured_image: "/uploads/cristina-gottardi-x841bqFSOwM-unsplash.jpg"
+featured_image: "/uploads/Afbeelding1.jpg"
 images:
-- "/uploads/cristina-gottardi-x841bqFSOwM-unsplash.jpg"
+- "/uploads/Afbeelding1.jpg"
 
 ---
 Op 27 maart 2020 om 18.00 uur, in het midden van deze verschrikkelijke coronacrisis, gaat Paus Franciscus voor in een gebedsviering. Daarna geeft hij de speciale Urbi et Orbi zegen, niet alleen voor de stad Rome, maar ook voor de gehele wereld. Door de paus zal tijdens deze plechtigheid een monstrans getoond worden. In deze monstrans bevindt zich de heilige hostie. Voor Rooms-Katholieken betekent dit dat Christus letterlijk met hen is en op die manier het volk zegent.
