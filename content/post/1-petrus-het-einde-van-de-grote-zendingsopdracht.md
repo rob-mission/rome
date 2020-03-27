@@ -11,7 +11,8 @@ description: Wanneer het gaat over de opdracht van de christelijke gemeente, wor
 tags: []
 related_posts: []
 featured_image: "/uploads/david-iskander-GTnFf_44e7o-unsplash.jpg"
-images: []
+images:
+- "/uploads/david-iskander-GTnFf_44e7o-unsplash.jpg"
 
 ---
 Wanneer het gaat over de opdracht van de christelijke gemeente, wordt snel gegrepen naar de laatste woorden die Christus richt aan zijn discipelen om heen te gaan en het Evangelie in de wereld te verspreiden (Mattheus 28:16-20). Deze woorden worden ook wel zo uitgelegd dat gelovigen geroepen worden om hun spullen te pakken en te vertrekken naar een andere plaats om daar tot zegen te zijn. _Is dat werkelijk zo?_
