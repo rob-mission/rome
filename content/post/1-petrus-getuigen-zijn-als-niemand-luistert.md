@@ -7,7 +7,7 @@ description: 'In 1 Petrus worden gelovigen opgeroepen zichzelf te beschouwen als
   en uiteraard heeft dit consequenties in de dagelijkse levenswandel. '
 tags: []
 related_posts: []
-featured_image: "/uploads/DSC_0205.JPG"
+featured_image: "/uploads/DSC_0205bb.jpg"
 images:
 - "/uploads/DSC_0205bb.jpg"
 
