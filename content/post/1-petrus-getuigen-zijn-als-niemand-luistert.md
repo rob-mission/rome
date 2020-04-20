@@ -9,7 +9,7 @@ tags: []
 related_posts: []
 featured_image: "/uploads/DSC_0205.JPG"
 images:
-- "/uploads/DSC_0205-1.JPG"
+- "/uploads/DSC_0205bb.jpg"
 
 ---
 In 1 Petrus worden gelovigen opgeroepen zichzelf te beschouwen als vreemdelingen en bijwoners. Door hun nieuwe identiteit zijn deze gelovigen apart gezet voor God en uiteraard heeft dit consequenties in de dagelijkse levenswandel. Doorheen de gehele brief[\[1\]](#_ftn1) worden er richtlijnen gegeven hoe deze volgelingen van Christus hun identiteit behoren uit te leven in de alledaagse praktijk. Echter, door deze andere levenswandel ontstaat er wrijving in de samenleving.
