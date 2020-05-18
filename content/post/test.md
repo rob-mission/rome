@@ -5,9 +5,8 @@ date:
 description: ''
 tags: []
 related_posts: []
-featured_image: "/uploads/20200518_133758-3.jpg"
-images:
-- "/uploads/20200518_133758-3.jpg"
+featured_image: ''
+images: []
 
 ---
 test
