@@ -54,4 +54,8 @@ De lokale traditie beweert dat martelares Cecilia (late tweede eeuw) uit een ari
 
 De traditie verbindt het kerkgebouw met de Romeinse bisschop Callistus (overleden in 222). Op deze plaats zou Callistus samengekomen zijn met andere gelovigen in het huis van de _patriciër_ (adellijk geslacht) Pontianus. Tijdens de vervolgingen is Callistus op deze plaats vermoord. Het huidige kerkgebouw stamt uit het begin van de zeventiende eeuw, hoewel de locatie schijnbaar ook in de achtste eeuw gebruikt werd voor samenkomsten.
 
-De bovenstaande _Tituli_ bevinden zich in de wijken waar de eerste christenen samenkwamen. De traditie heeft, terecht of onterecht, locaties en personen (voornamelijk martelaren) met elkaar verbonden. Wat zeker is dat de gemeenten in de eerste twee eeuwen vooral bestonden uit mensen die deel uit maakten van de lagere klassen van de bevolking. In Rome is het dan ook tevergeefs [zoeken naar overblijfselen](), omdat er in die tijd geen gebruik werd gemaakt van “kerkgebouwen”, gewijde altaren, catacomben en zeker geen christelijke kunst. 
+De bovenstaande _Tituli_ bevinden zich in de wijken waar de eerste christenen samenkwamen. De traditie heeft, terecht of onterecht, locaties en personen (voornamelijk martelaren) met elkaar verbonden. Wat zeker is dat de gemeenten in de eerste twee eeuwen vooral bestonden uit mensen die deel uit maakten van de lagere klassen van de bevolking. In Rome is het dan ook tevergeefs [zoeken naar overblijfselen](), omdat er in die tijd geen gebruik werd gemaakt van “kerkgebouwen”, gewijde altaren, catacomben en zeker geen christelijke kunst.
+
+Literatuur:
+
+Lampe, Peter (2003) _From Paul to Valentinus, Christians at Rome in the first two centuries_, Minneapolis, MN: Fortress Press.
