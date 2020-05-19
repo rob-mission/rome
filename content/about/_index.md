@@ -17,7 +17,7 @@ De komende twee jaar zal ik een training in kerkplanting volgen in projecten in 
 
 Naast deze training ben ik actief voor Stichting In de Rechte Straat (IRS). Zo schrijf ik voor de Italiaanstalige [website](https://www.sentiero-cristiano.it/) van IRS waar zinzoekers terecht kunnen met hun vragen over het christelijke geloof.
 
-Recent zijn er enkele artikelen verschenen gerelateerd aan mijn werk in diverse media: 
+Recent zijn er enkele artikelen verschenen gerelateerd aan mijn werk in diverse media:
 
 22-04-2020 \[[IRS](https://www.irs.nu/source/rob-van-der-dussen-deze-crisis-is-een-test/ '"Deze crisis is een test"')\] “Deze crisis is een test”.
 
