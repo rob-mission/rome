@@ -1,7 +1,7 @@
 ---
 omit_header_text: true
 title: Leerde de Vroege Kerk de rechtvaardiging uit het geloof?
-date: 2020-05-20T20:00:00+00:00
+date: 2020-05-20T19:00:00+00:00
 description: 'Voor protestanten is het leerstuk over de rechtvaardigmaking door het
   geloof datgene waarop de Kerk staat of valt. In de lange geschiedenis van de Kerk
   is Luther niet degene die dit leerstuk “ontdekte”. Vaak wordt er gerefereerd naar
