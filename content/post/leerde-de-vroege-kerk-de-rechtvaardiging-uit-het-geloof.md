@@ -8,9 +8,9 @@ description: 'Voor protestanten is het leerstuk over de rechtvaardigmaking door 
   Augustinus, maar niet naar kerkvaders die vóór hem leefden. '
 tags: []
 related_posts: []
-featured_image: "/uploads/streams-of-water.jpg"
+featured_image: "/uploads/streams-of-water-1.jpg"
 images:
-- "/uploads/streams-of-water.jpg"
+- "/uploads/streams-of-water-1.jpg"
 
 ---
 Voor protestanten is het leerstuk over de rechtvaardigmaking door het geloof datgene waarop de Kerk staat of valt. In de lange geschiedenis van de Kerk is Luther niet degene die dit leerstuk “ontdekte”. Vaak wordt er gerefereerd naar Augustinus, maar niet naar kerkvaders die vóór hem leefden.
@@ -45,7 +45,7 @@ Ten slotte, in het werk _Against Marcion_ spoort kerkvader **Tertullianus** (160
 
 In deze korte _verkenning_ valt op dat er meerdere kerkvaders uit de eerste twee eeuwen zijn op een eenvoudige wijze spreken over het werk van Christus, en niet dat van de wet, wat de mens voor God rechtvaardigt.
 
-![](/uploads/streams-of-water.jpg)
+![](/uploads/streams-of-water-1.jpg)
 
 _Foto_: Een mozaïek uit de 9de eeuw met daarop de frisse waterstromen van psalm 42 en Christus als het Lam van God wat de zonde van de wereld wegneemt. Kapel van _San Zeno_ in de basiliek _Santa Prassede_, Rome.
 
