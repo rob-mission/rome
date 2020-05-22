@@ -37,7 +37,7 @@ In het bekende _Dialoog van Justinus_, schrijft **Justinus de Martelaar** (ca. 1
 
 > Wie niet langer door het bloed van geiten en schapen gezuiverd werden, of door de as van een koe, of door het aanbieden van fijne bloem, maar door het geloof in het bloed van Christus, en door de dood van Hem Die om deze reden stierf (Hfdst.13).
 
-**Diognetus** schrijft in _Kenmerken van een Christen_ (ca. 150-200 AD):
+In **De Brief aan Diognetus** (ca. 150-200 AD) staat een lofprijs over het werk van Christus, wat Hij gedaan heeft voor de gelovige:
 
 > O welk een prachtige ruil, O wat voor ondoorgrondelijke scheppingsdaad, O wat voor onverwachte voordelen. Dat de ongerechtigheid van mensen opgeborgen zou worden in één Rechtvaardige Man. En dat de rechtvaardigheid van Eén, velen die oneerlijk zijn zou rechtvaardigen! (9:5).
 
