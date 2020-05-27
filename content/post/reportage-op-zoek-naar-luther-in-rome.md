@@ -27,3 +27,29 @@ Tekst
 ![](/uploads/dsc_0353-1.jpg)
 
 _Scala Santa_
+
+![](/uploads/dsc_0055-1.jpg)
+
+Tekst
+
+**Een intermezzo**
+
+_San Giovanni in Laterano_
+
+![](/uploads/dsc_0165-1.jpg)
+
+**De strijd barst lost**
+
+_Chiesa del Gesù_
+
+![](/uploads/20200522_150055-1.jpg)
+
+![](/uploads/20200526_092204-1.jpg)
+
+![](/uploads/20200526_092218-1.jpg)
+
+![](/uploads/dsc_0428-1.jpg)
+
+_Chiesa di Sant’ Ignazio di Loyola_
+
+![](/uploads/20200522_152315-1.jpg)
