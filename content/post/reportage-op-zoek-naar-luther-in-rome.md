@@ -1,0 +1,29 @@
+---
+omit_header_text: true
+title: 'Reportage: Op zoek naar Luther in Rome'
+date: 2020-05-27T14:00:00+00:00
+description: 'Rome en het Rooms-Katholicisme zijn onlosmakelijk met elkaar verbonden.
+  Een Reformatie zoals in Noordwest Europa is nauwelijks doorgedrongen in deze stad.
+  Toch zijn er sporen te vinden van deze protestantse revolutie. In deze reportage
+  gaan we op zoek naar Luther in Rome. '
+tags: []
+related_posts: []
+featured_image: "/uploads/20200526_092204-1.jpg"
+images:
+- "/uploads/20200526_092204-1.jpg"
+draft: true
+
+---
+Rome en het Rooms-Katholicisme zijn onlosmakelijk met elkaar verbonden. Een Reformatie zoals in Noordwest Europa is nauwelijks doorgedrongen in deze stad. Toch zijn er sporen te vinden van deze protestantse revolutie. In deze reportage gaan we op zoek naar Luther in Rome.
+
+**Luthers’ verblijf in Rome**
+
+_Santa Maria del Popolo_
+
+![](/uploads/20200522_165259-1.jpg)
+
+Tekst
+
+![](/uploads/dsc_0353-1.jpg)
+
+_Scala Santa_
