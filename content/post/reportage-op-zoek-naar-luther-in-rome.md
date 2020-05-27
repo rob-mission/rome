@@ -53,3 +53,9 @@ _Chiesa del Gesù_
 _Chiesa di Sant’ Ignazio di Loyola_
 
 ![](/uploads/20200522_152315-1.jpg)
+
+![](/uploads/20200522_151925-2.jpg)
+
+![](/uploads/dsc_0419-1.jpg)
+
+![](/uploads/dsc_0418-1.jpg)
