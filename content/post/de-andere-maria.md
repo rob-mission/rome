@@ -1,14 +1,15 @@
 ---
 omit_header_text: true
 title: De andere Maria
-date: 2020-02-18T23:00:00+00:00
+date: 2020-02-18T23:00:00.000+00:00
 description: In gesprekken met Rooms-Katholieke gelovigen is het onmogelijk om Maria
   te passeren of te negeren. Denk hierbij ook aan de feesten zoals Maria Hemelvaart
   of de viering van de onbevlekte ontvangenis van Maria. Is het terecht dat zij de
   titels draagt zoals onbevlekte maagd, de koningin van het universum, de Moeder Gods,
   voorspreekster, een middelares in het verlossingswerk van Jezus Christus, helpster
   en bijstand?
-tags: []
+tags:
+- Rooms-Katholicisme
 related_posts: []
 featured_image: "/uploads/maria-1.jpg"
 images:
