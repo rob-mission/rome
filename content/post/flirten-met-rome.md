@@ -1,14 +1,15 @@
 ---
 omit_header_text: true
 title: Flirten met Rome
-date: 2020-02-16T23:00:00+00:00
+date: 2020-02-16T23:00:00.000+00:00
 description: 'Flirten met Rome lijkt in de mode te zijn: protestanten zoeken toenadering
   tot Rooms Katholieken. Onder de nazaten van de protestantse Reformatie is er een
   stijgende belangstelling waar te nemen voor de monastieke traditie, vormen van meditatie,
   de Mariadevotie en de spiritualiteit van Ignatius van Loyola. En wie draagt er in
   deze tijd van verwarring geen warm hart toe aan het krachtige ethische geluid vanuit
   Rome? '
-tags: []
+tags:
+- Rooms-Katholicisme
 related_posts: []
 featured_image: "/uploads/blog/anna-church-fnULBa088dc-unsplash.jpg"
 images:
