@@ -1,14 +1,15 @@
 ---
 omit_header_text: true
 title: '1 Petrus: het einde van de Grote Zendingsopdracht?'
-date: 2020-03-25T23:00:00+00:00
+date: 2020-03-25T23:00:00.000+00:00
 description: Wanneer het gaat over de opdracht van de christelijke gemeente, wordt
   snel gegrepen naar de laatste woorden die Christus richt aan zijn discipelen om
   heen te gaan en het Evangelie in de wereld te verspreiden (Mattheus 28:16-20). Deze
   woorden worden ook wel zo uitgelegd dat gelovigen geroepen worden om hun spullen
   te pakken en te vertrekken naar een andere plaats om daar tot zegen te zijn. Is
   dat werkelijk zo?
-tags: []
+tags:
+- Nieuwe Testament
 related_posts: []
 featured_image: "/uploads/david-iskander-GTnFf_44e7o-unsplash.jpg"
 images:
