@@ -6,7 +6,8 @@ description: 'Voor protestanten is het leerstuk over de rechtvaardigmaking door 
   geloof datgene waarop de Kerk staat of valt. In de lange geschiedenis van de Kerk
   is Luther niet degene die dit leerstuk “ontdekte”. Vaak wordt er gerefereerd naar
   Augustinus, maar niet naar kerkvaders die vóór hem leefden. '
-tags: []
+tags:
+- Vroege Kerk
 related_posts: []
 featured_image: "/uploads/streams-of-water-1.jpg"
 images:
