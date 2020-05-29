@@ -5,7 +5,9 @@ date: 2020-05-19T07:00:00+00:00
 description: 'Om kennis te maken met de wereld van de Vroeg Christelijke Kerk is Rome
   de plaats bij uitstek. Al voordat Paulus terechtkwam in Rome (mogelijk 62 AD), waren
   er al diverse huisgemeenten actief. '
-tags: []
+tags:
+- Rome
+- Vroege Kerk
 related_posts: []
 featured_image: "/uploads/20200518_133758-4.jpg"
 images:
