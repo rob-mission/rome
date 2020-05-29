@@ -1,12 +1,14 @@
 ---
 omit_header_text: true
 title: '27 maart 2020: Een aflaat voor een lijdende wereld'
-date: 2020-03-27T11:50:59+00:00
+date: 2020-03-27T11:50:59.000+00:00
 description: 'Op 27 maart 2020 om 18.00 uur, in het midden van deze verschrikkelijke
   coronacrisis, gaat Paus Franciscus voor in een gebedsviering. Daarna geeft hij de
   speciale Urbi et Orbi zegen, niet alleen voor de stad Rome, maar ook voor de gehele
   wereld. '
-tags: []
+tags:
+- Rome
+- Rooms-Katholicisme
 related_posts: []
 featured_image: "/uploads/Afbeelding2.jpg"
 images:
