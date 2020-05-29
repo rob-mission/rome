@@ -1,11 +1,12 @@
 ---
 omit_header_text: true
 title: '1 Petrus: getuigen zijn als niemand luistert'
-date: 2020-04-19T22:00:00+00:00
+date: 2020-04-19T22:00:00.000+00:00
 description: 'In 1 Petrus worden gelovigen opgeroepen zichzelf te beschouwen als vreemdelingen
   en bijwoners. Door hun nieuwe identiteit zijn deze gelovigen apart gezet voor God
   en uiteraard heeft dit consequenties in de dagelijkse levenswandel. '
-tags: []
+tags:
+- Nieuwe Testament
 related_posts: []
 featured_image: "/uploads/DSC_0205bb.jpg"
 images:
