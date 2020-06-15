@@ -22,7 +22,7 @@ In de vroegchristelijke kerken in Rome zijn prachtige mozaïeken te vinden, maar
 
 _Santa Maria in Trastevere (12e eeuw)._
 
-Jezus Christus is niet alleen de schaapherder, Hij is ook _Agnus Dei:_ “_het Lam van God, Dat de zonde van de wereld wegneemt_” (Joh. 1:29). Om die reden is Jezus dan ook afgebeeld als een Lam (_Santa Prassede_). Anderzijds worden de twaalf apostelen ook als schapen afgebeeld. Wanneer Christus in hun midden is, wordt dit aangeduid met een stralenkrans. De twaalf apostelen zijn in dezelfde gestalten te vinden in de _San Clemente_ in Rome_._
+Jezus Christus is niet alleen de schaapherder, Hij is ook _Agnus Dei:_ “het Lam van God, Dat de zonde van de wereld wegneemt” (Joh. 1:29). Om die reden is Jezus dan ook afgebeeld als een Lam (_Santa Prassede_). Anderzijds worden de twaalf apostelen ook als schapen afgebeeld. Wanneer Christus in hun midden is, wordt dit aangeduid met een stralenkrans. De twaalf apostelen zijn in dezelfde gestalten te vinden in de _San Clemente_ in Rome.
 
 **Leeuw, os, arend en een gevleugelde man**
 
@@ -46,7 +46,7 @@ De feniks is een vogel, waarvan de Grieken geloofden dat deze uit zijn eigen as 
 
 _Il Mausoleo di Santa Costanza in Rome (4e eeuw)._
 
-Druiven kunnen refereren naar de eucharistie: het bloed van Christus wat reinigt van alle zonden. Daarnaast staan druiven ook symbool voor de grote oogst, namelijk de nieuwe gelovigen die ingeplant zijn in Christus: “_Ik ben de Wijnstok, u de ranken_” (Joh. 15:5).
+Druiven kunnen refereren naar de eucharistie: het bloed van Christus wat reinigt van alle zonden. Daarnaast staan druiven ook symbool voor de grote oogst, namelijk de nieuwe gelovigen die ingeplant zijn in Christus: “Ik ben de Wijnstok, u de ranken” (Joh. 15:5).
 
 **Palmboom**
 
@@ -54,7 +54,7 @@ Druiven kunnen refereren naar de eucharistie: het bloed van Christus wat reinigt
 
 _Santa Prassede in Rome_ _(9e eeuw)._
 
-Een palmboom werd geassocieerd met leven. Met palmbomen wordt verwezen naar het hemelse Jeruzalem, het nieuwe paradijs. Daarnaast zou het ook kunnen refereren naar “vruchtdragende” christenen: “_De rechtvaardige zal groeien als een palmboom_” (Psalm 92:13). De palmboom is bijvoorbeeld ook te vinden in de _Santa Cecilia_ in Rome.
+Een palmboom werd geassocieerd met leven. Met palmbomen wordt verwezen naar het hemelse Jeruzalem, het nieuwe paradijs. Daarnaast zou het ook kunnen refereren naar “vruchtdragende” christenen: “De rechtvaardige zal groeien als een palmboom” (Psalm 92:13). De palmboom is bijvoorbeeld ook te vinden in de _Santa Cecilia_ in Rome.
 
 **Zeven kandelaren**
 
@@ -62,7 +62,7 @@ Een palmboom werd geassocieerd met leven. Met palmbomen wordt verwezen naar het 
 
 _Santi Cosma e Damiano in Rome (6e eeuw)._
 
-De zeven kandelaren staan symbool voor de zeven geesten van God. Het is een referentie naar het visioen wat Johannes op Padmos kreeg: “_Te midden van de zeven \[gouden\] kandelaren zag ik Iemand Die op de Zoon des mensen leek_” (Openb. 1:13-14). In de _Santi Cosma e Damiano_ is temidden van deze kandelaren Christus afgebeeld als een Lam op het offerblok. De zeven kandelaren zijn ook te vinden in de _Santa Maria in Trastevere_.
+De zeven kandelaren staan symbool voor de zeven geesten van God. Het is een referentie naar het visioen wat Johannes op Padmos kreeg: “Te midden van de zeven \[gouden\] kandelaren zag ik Iemand Die op de Zoon des mensen leek” (Openb. 1:13-14). In de _Santi Cosma e Damiano_ is temidden van deze kandelaren Christus afgebeeld als een Lam op het offerblok. De zeven kandelaren zijn ook te vinden in de _Santa Maria in Trastevere_.
 
 **Vierkante en ronde stralenkrans**
 
