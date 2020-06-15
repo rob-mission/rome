@@ -22,7 +22,7 @@ In de vroegchristelijke kerken in Rome zijn prachtige mozaïeken te vinden, maar
 
 _Santa Maria in Trastevere (12e eeuw)._
 
-Jezus Christus is niet alleen de schaapherder, Hij is ook _Agnus Dei:_ “het Lam van God, Dat de zonde van de wereld wegneemt” (Joh. 1:29). Om die reden is Jezus dan ook afgebeeld als een Lam (_Santa Prassede_). Anderzijds worden de twaalf apostelen ook als schapen afgebeeld. Wanneer Christus in hun midden is, wordt dit aangeduid met een stralenkrans. De twaalf apostelen zijn in dezelfde gestalten te vinden in de _San Clemente_ in Rome.
+Jezus Christus is niet alleen de schaapherder, Hij is ook _Agnus Dei:_ “het Lam van God, Dat de zonde van de wereld wegneemt” (Joh. 1:29). Om die reden is Jezus dan ook afgebeeld als een Lam (_Santa Prassede_). Anderzijds worden de twaalf apostelen ook als schapen afgebeeld. Wanneer Christus in hun midden is, draagt Hij een stralenkrans. De twaalf apostelen zijn in dezelfde gestalten te vinden in de _San Clemente_ in Rome.
 
 **Leeuw, os, arend en een gevleugelde man**
 
@@ -30,7 +30,7 @@ Jezus Christus is niet alleen de schaapherder, Hij is ook _Agnus Dei:_ “het La
 
 _Santa Prudenziana in Rome (5e eeuw)._
 
-In de _Santa Prudenziana_ zijn de vier schrijvers van de Evangeliën te vinden in bijzondere gestalten. Markus wordt weergegeven als leeuw, Lukas als os, Johannes als arend en Mattheus als een gevleugelde man. De vier evangelisten zijn ook te vinden in de _Santa Maria in Trastevere_ (12e eeuw).
+In de _Santa Prudenziana_ zijn de vier schrijvers van de Evangeliën te vinden.  Markus wordt weergegeven als een leeuw, Lukas als een os, Johannes als een arend en Mattheus als een gevleugelde man. De vier evangelisten zijn ook te vinden in de _Santa Maria in Trastevere_ (12e eeuw).
 
 **Feniks**
 
@@ -38,7 +38,7 @@ In de _Santa Prudenziana_ zijn de vier schrijvers van de Evangeliën te vinden i
 
 _Santi Cosma e Damiano in Rome_ _(6e eeuw)._
 
-De feniks is een vogel, waarvan de Grieken geloofden dat deze uit zijn eigen as weer herboren kon worden. In de christelijke kunst staat de feniks symbool voor de opstanding uit de doden. De feniks is ook te vinden in de _Santa Prassede_.
+De feniks is een vogel, waarvan de Grieken geloofden dat deze uit zijn eigen as weer herboren kon worden. In de christelijke kunst staat de feniks dan ook symbool voor de opstanding uit de doden. De feniks is ook te vinden in de _Santa Prassede_.
 
 **Druiven**
 
@@ -46,7 +46,7 @@ De feniks is een vogel, waarvan de Grieken geloofden dat deze uit zijn eigen as 
 
 _Il Mausoleo di Santa Costanza in Rome (4e eeuw)._
 
-Druiven kunnen refereren naar de eucharistie: het bloed van Christus wat reinigt van alle zonden. Daarnaast staan druiven ook symbool voor de grote oogst, namelijk de nieuwe gelovigen die ingeplant zijn in Christus: “Ik ben de Wijnstok, u de ranken” (Joh. 15:5).
+Druiven kunnen verwijzen naar de eucharistie: het bloed van Christus wat reinigt van alle zonden. Daarnaast staan druiven ook symbool voor de grote oogst, namelijk de nieuwe gelovigen die ingeplant zijn in Christus: “Ik ben de Wijnstok, u de ranken” (Joh. 15:5).
 
 **Palmboom**
 
@@ -54,7 +54,7 @@ Druiven kunnen refereren naar de eucharistie: het bloed van Christus wat reinigt
 
 _Santa Prassede in Rome_ _(9e eeuw)._
 
-Een palmboom werd geassocieerd met leven. Met palmbomen wordt verwezen naar het hemelse Jeruzalem, het nieuwe paradijs. Daarnaast zou het ook kunnen refereren naar “vruchtdragende” christenen: “De rechtvaardige zal groeien als een palmboom” (Psalm 92:13). De palmboom is bijvoorbeeld ook te vinden in de _Santa Cecilia_ in Rome.
+Een palmboom werd in de Romeinse tijd geassocieerd met leven. In de vroegchristelijke kunst symboliseren palmbomen het hemelse Jeruzalem, het nieuwe paradijs. Daarnaast kunnen deze palmbomen ook refereren naar “vruchtdragende” christenen: “De rechtvaardige zal groeien als een palmboom” (Psalm 92:13). De palmboom is bijvoorbeeld ook te vinden in de _Santa Cecilia_ in Rome.
 
 **Zeven kandelaren**
 
@@ -62,7 +62,7 @@ Een palmboom werd geassocieerd met leven. Met palmbomen wordt verwezen naar het 
 
 _Santi Cosma e Damiano in Rome (6e eeuw)._
 
-De zeven kandelaren staan symbool voor de zeven geesten van God. Het is een referentie naar het visioen wat Johannes op Padmos kreeg: “Te midden van de zeven \[gouden\] kandelaren zag ik Iemand Die op de Zoon des mensen leek” (Openb. 1:13-14). In de _Santi Cosma e Damiano_ is temidden van deze kandelaren Christus afgebeeld als een Lam op het offerblok. De zeven kandelaren zijn ook te vinden in de _Santa Maria in Trastevere_.
+De zeven kandelaren staan symbool voor de zeven geesten van God. Het is een referentie naar het visioen wat Johannes op Padmos kreeg: “Te midden van de zeven \[gouden\] kandelaren zag ik Iemand Die op de Zoon des mensen leek” (Openb. 1:13-14). In de _Santi Cosma e Damiano_ is te midden van deze kandelaren Christus afgebeeld als een Lam op het offerblok. De zeven kandelaren zijn ook te vinden in de _Santa Maria in Trastevere_.
 
 **Vierkante en ronde stralenkrans**
 
@@ -79,5 +79,7 @@ De ronde stralenkrans verwijst naar (gestorven) heiligen. De vierkante stralenkr
 _Sant Agnese fuori delle Mura (9e eeuw)._
 
 Een figuur met een kerkgebouw in de hand staat symbool als de beschermheer van het gebouw. Een dergelijk persoon is ook te zien in de _Santa Maria in Trastevere_ in Rome.
+
+_Ad maiorem Dei gloriam - Tot meerdere glorie van God_
 
 Met dank aan Dick Lammers.
