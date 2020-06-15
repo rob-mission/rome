@@ -42,7 +42,7 @@ De feniks is een vogel, waarvan de Grieken geloofden dat deze uit zijn eigen as 
 
 **Druiven**
 
-![](/uploads/constanza1-1.jpg)
+![](/uploads/druiven.jpg)
 
 _Il Mausoleo di Santa Costanza in Rome (4e eeuw)._
 
