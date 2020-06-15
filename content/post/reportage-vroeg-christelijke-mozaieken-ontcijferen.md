@@ -70,7 +70,7 @@ In de vroegchristelijke kunst symboliseren palmbomen het hemelse Jeruzalem, het 
 
 _Santi Cosma e Damiano in Rome (6e eeuw)._
 
-De zeven kandelaren staan symbool voor de zeven geesten van God. Het is een referentie naar het visioen wat Johannes op Padmos kreeg: “Te midden van de zeven \[gouden\] kandelaren zag ik Iemand Die op de Zoon des mensen leek” (Openb. 1:13-14). In de _Santi Cosma e Damiano_ is te midden van deze kandelaren Christus afgebeeld als een Lam op het offerblok. De zeven kandelaren zijn ook te vinden in de _Santa Maria in Trastevere_.
+De zeven kandelaren staan symbool voor de zeven geesten van God. Het is een referentie naar het visioen wat Johannes op Padmos kreeg: “Te midden van de zeven \[gouden\] kandelaren zag ik Iemand Die op de Zoon des mensen leek” (Openb. 1:13-14). In de _Santi Cosma e Damiano_ is te midden van deze kandelaren Christus afgebeeld als een Lam. De zeven kandelaren zijn ook te vinden in de _Santa Maria in Trastevere_.
 
 **Vierkante en ronde stralenkrans**
 
