@@ -16,6 +16,22 @@ images:
 ---
 In de vroegchristelijke kerken in Rome zijn prachtige mozaïeken te vinden, maar zonder kennis van deze oude wereld kijk je wellicht over belangrijke symbolen heen. In dit artikel worden de meest belangrijke vroegchristelijke symbolen ontcijferd.
 
+**Persoon met een kerkgebouw**
+
+![](/uploads/constanza3-1.jpg)
+
+_Sant Agnese fuori delle Mura (9e eeuw)._
+
+Een figuur met een kerkgebouw in de hand staat symbool als de beschermheer van het gebouw. Een dergelijk persoon is ook te zien in de _Santa Maria in Trastevere_ in Rome.
+
+**Druiven**
+
+![](/uploads/druiven.jpg)
+
+_Il Mausoleo di Santa Costanza in Rome (4e eeuw)._
+
+Druiven staan symbool voor de grote oogst, namelijk de gelovigen die ingeplant zijn in Christus: “Ik ben de Wijnstok, u de ranken” (Joh. 15:5).
+
 **Schapen**
 
 ![](/uploads/trastevere-1.jpg)
@@ -40,14 +56,6 @@ _Santi Cosma e Damiano in Rome_ _(6e eeuw)._
 
 De feniks is een vogel, waarvan de Grieken geloofden dat deze uit zijn eigen as weer herboren kon worden. In de christelijke kunst staat de feniks dan ook symbool voor de opstanding uit de doden. De feniks is ook te vinden in de _Santa Prassede_.
 
-**Druiven**
-
-![](/uploads/druiven.jpg)
-
-_Il Mausoleo di Santa Costanza in Rome (4e eeuw)._
-
-Druiven kunnen verwijzen naar de eucharistie: het bloed van Christus wat reinigt van alle zonden. Daarnaast staan druiven ook symbool voor de grote oogst, namelijk de nieuwe gelovigen die ingeplant zijn in Christus: “Ik ben de Wijnstok, u de ranken” (Joh. 15:5).
-
 **Palmboom**
 
 ![](/uploads/img-20200614-wa0020-1.jpg)
@@ -71,14 +79,6 @@ De zeven kandelaren staan symbool voor de zeven geesten van God. Het is een refe
 _Santa Prassede in Rome (9e eeuw)._
 
 De ronde stralenkrans verwijst naar (gestorven) heiligen. De vierkante stralenkrans was voor belangrijke personen die nog leefden, vaak was dit de persoon die het mozaïek bekostigde.
-
-**Persoon met een kerkgebouw**
-
-![](/uploads/constanza3-1.jpg)
-
-_Sant Agnese fuori delle Mura (9e eeuw)._
-
-Een figuur met een kerkgebouw in de hand staat symbool als de beschermheer van het gebouw. Een dergelijk persoon is ook te zien in de _Santa Maria in Trastevere_ in Rome.
 
 _Ad maiorem Dei gloriam - Tot meerdere glorie van God_
 
