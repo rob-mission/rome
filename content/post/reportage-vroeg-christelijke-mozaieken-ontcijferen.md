@@ -1,6 +1,6 @@
 ---
 omit_header_text: true
-title: 'Reportage: Vroeg-christelijke mozaïeken ontcijferen'
+title: 'Reportage: Vroegchristelijke mozaïeken ontcijferen'
 date: 2020-06-15T18:00:00+00:00
 description: In de vroegchristelijke kerken in Rome zijn prachtige mozaïeken te vinden,
   maar zonder kennis van deze oude wereld kijk je wellicht over belangrijke symbolen
