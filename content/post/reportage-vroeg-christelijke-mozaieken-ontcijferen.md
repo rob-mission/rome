@@ -62,7 +62,7 @@ De feniks is een vogel, waarvan de Grieken geloofden dat deze uit zijn eigen as 
 
 _Santa Prassede in Rome_ _(9e eeuw)._
 
-Een palmboom werd in de Romeinse tijd geassocieerd met leven. In de vroegchristelijke kunst symboliseren palmbomen het hemelse Jeruzalem, het nieuwe paradijs. Daarnaast kunnen deze palmbomen ook refereren naar “vruchtdragende” christenen: “De rechtvaardige zal groeien als een palmboom” (Psalm 92:13). De palmboom is bijvoorbeeld ook te vinden in de _Santa Cecilia_ in Rome.
+In de vroegchristelijke kunst symboliseren palmbomen het hemelse Jeruzalem, het nieuwe paradijs. Daarnaast kunnen deze palmbomen ook refereren naar “vruchtdragende” christenen: “De rechtvaardige zal groeien als een palmboom” (Psalm 92:13). De palmboom is bijvoorbeeld ook te vinden in de _Santa Cecilia_ in Rome.
 
 **Zeven kandelaren**
 
