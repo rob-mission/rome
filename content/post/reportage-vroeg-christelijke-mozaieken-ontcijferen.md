@@ -22,7 +22,7 @@ In de vroegchristelijke kerken in Rome zijn prachtige mozaïeken te vinden, maar
 
 _Sant Agnese fuori delle Mura (9e eeuw)._
 
-Een figuur met een kerkgebouw in de hand staat symbool als de beschermheer van het gebouw. Een dergelijk persoon is ook te zien in de _Santa Maria in Trastevere_ in Rome.
+Een figuur met een kerkgebouw in de hand staat symbool voor de beschermheer van het kerkgebouw. Een dergelijk persoon is ook te zien in de _Santa Maria in Trastevere_ in Rome.
 
 **Druiven**
 
