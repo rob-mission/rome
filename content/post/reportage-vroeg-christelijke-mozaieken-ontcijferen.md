@@ -38,7 +38,7 @@ Druiven staan symbool voor de grote oogst, namelijk de gelovigen die ingeplant z
 
 _Santa Maria in Trastevere (12e eeuw)._
 
-Jezus Christus is niet alleen de schaapherder, Hij is ook _Agnus Dei:_ “het Lam van God, Dat de zonde van de wereld wegneemt” (Joh. 1:29). Om die reden is Jezus dan ook afgebeeld als een Lam (_Santa Prassede_). Anderzijds worden de twaalf apostelen ook als schapen afgebeeld. Wanneer Christus in hun midden is, draagt Hij een stralenkrans. De twaalf apostelen zijn in dezelfde gestalte te vinden in de _San Clemente_ in Rome.
+Jezus Christus is niet alleen de schaapherder, Hij is ook _Agnus Dei:_ “het Lam van God, Dat de zonde van de wereld wegneemt” (Joh. 1:29). Om die reden is Jezus dan ook afgebeeld als een Lam (_Santa Prassede_). Anderzijds worden de twaalf apostelen ook als schapen afgebeeld. Christus is te herkennen aan de stralenkrans. De twaalf apostelen zijn ook te vinden in de _San Clemente_ in Rome.
 
 **Leeuw, os, arend en een gevleugelde man**
 
