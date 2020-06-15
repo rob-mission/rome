@@ -46,7 +46,7 @@ Jezus Christus als _Agnus Dei:_ “het Lam van God, Dat de zonde van de wereld w
 
 _Santa Prudenziana in Rome (5e eeuw)._
 
-In de _Santa Prudenziana_ zijn de vier schrijvers van de Evangeliën te vinden.  Markus wordt weergegeven als een leeuw, Lukas als een os, Johannes als een arend en Mattheus als een gevleugelde man. De vier evangelisten zijn ook te vinden in de _Santa Maria in Trastevere_ (12e eeuw).
+In de _Santa Prudenziana_ zijn de vier schrijvers van de Evangeliën te vinden.  Markus wordt weergegeven als een leeuw, Lukas als een os, Johannes als een arend en Mattheus als een gevleugelde man. De vier evangelisten zijn op dezelfde wijze afgebeeld in de _Santa Maria in Trastevere_ (12e eeuw).
 
 **Feniks**
 
