@@ -1,12 +1,13 @@
 ---
-date: 2020-02-05T22:00:00+00:00
+date: 2020-02-05T22:00:00.000+00:00
 title: '1 Petrus: waarom vreemdelingen worden vervolgd'
 description: '1 Petrus: waarom vreemdelingen worden vervolgd'
 images:
 - "/uploads/blog/1Petrus.jpeg"
 featured_image: "/uploads/blog/1Petrus.jpeg"
 omit_header_text: true
-tags: []
+tags:
+- Nieuwe Testament
 related_posts: []
 
 ---
