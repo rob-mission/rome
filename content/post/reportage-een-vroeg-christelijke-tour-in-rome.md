@@ -1,8 +1,8 @@
 ---
 omit_header_text: true
-title: 'Reportage: Een Vroeg-Christelijke tour in Rome'
+title: 'Reportage: Een Vroegchristelijke tour in Rome'
 date: 2020-05-19T07:00:00+00:00
-description: 'Om kennis te maken met de wereld van de Vroeg Christelijke Kerk is Rome
+description: 'Om kennis te maken met de wereld van de Vroegchristelijke Kerk is Rome
   de plaats bij uitstek. Al voordat Paulus terechtkwam in Rome (mogelijk 62 AD), waren
   er al diverse huisgemeenten actief. '
 tags:
@@ -14,7 +14,7 @@ images:
 - "/uploads/20200518_133758-4.jpg"
 
 ---
-Om kennis te maken met de wereld van de Vroeg-Christelijke Kerk is Rome de plaats bij uitstek. Al voordat Paulus terechtkwam in Rome (mogelijk 62 AD), waren er al diverse huisgemeenten actief. De legendarische tradities over de christelijke gemeenten in de eerste en tweede eeuw ontstonden voornamelijk in de vijfde eeuw. Vanaf die tijd zijn de meest bijzondere voorwerpen aan te treffen in Rome: het doopvont dat Petrus gebruikte (_Santa Prisca_), de boeien van Paulus (_San Paolo fuori le Mura_), een stuk van het kruis van Jezus (_San Pietro_) en de tafel van het Laatste Avondmaal (_San Giovanni in Laterano_).
+Om kennis te maken met de wereld van de Vroegchristelijke Kerk is Rome de plaats bij uitstek. Al voordat Paulus terechtkwam in Rome (mogelijk 62 AD), waren er al diverse huisgemeenten actief. De legendarische tradities over de christelijke gemeenten in de eerste en tweede eeuw ontstonden voornamelijk in de vijfde eeuw. Vanaf die tijd zijn de meest bijzondere voorwerpen aan te treffen in Rome: het doopvont dat Petrus gebruikte (_Santa Prisca_), de boeien van Paulus (_San Paolo fuori le Mura_), een stuk van het kruis van Jezus (_San Pietro_) en de tafel van het Laatste Avondmaal (_San Giovanni in Laterano_).
 
 In de zoektocht naar de plaatsen waar de eerste christenen samenkwamen, moet gebruikt gemaakt worden van de traditie. De traditie geeft aan waar de _Tituli_ (eerste plaatsen van samenkomst) zich bevonden. De _Tituli_ die hieronder worden weergegeven zijn te vinden in onder andere Trastevere en de Aventijn. Over deze twee wijken kan met zekerheid gezegd worden dat daar de eerste christenen leefden.
 
