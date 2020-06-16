@@ -1,12 +1,13 @@
 ---
-date: 2020-02-06T10:00:00+00:00
+date: 2020-02-06T10:00:00.000+00:00
 title: 'Dr. D. Martyn Lloyd-Jones: Weet dat je uit God bent!'
 description: De relevantie van zijn boodschap voor de kerk en de christen van vandaag.
 images:
 - "/uploads/LloydJones.png"
 featured_image: "/uploads/LloydJones.png"
 omit_header_text: true
-tags: []
+tags:
+- Kerkgeschiedenis
 related_posts: []
 
 ---
