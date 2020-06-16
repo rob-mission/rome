@@ -3,9 +3,12 @@ title: Op zoek naar sporen van de eerste christenen in Rome
 date: 2019-12-06T00:04:13.000+00:00
 related_posts: []
 description: Op zoek naar sporen van de eerste christenen in Rome
-tags: []
+tags:
+- Rome
+- Vroege Kerk
 featured_image: "/uploads/blog/Bridge.png"
 omit_header_text: true
+
 ---
 Een bezoek aan de Sint-Pietersbasiliek doet vermoeden dat Paulus of Petrus de eerste christelijke gemeenten gesticht hebben in de wereldstad Rome. Echter, niks blijkt minder waar te zijn. Op het moment dat Paulus via de Via Appia Rome naderde, was hij niet de eerste om het Evangelie in deze stad te brengen. Lukas beschrijft namelijk dat Paulus op deze hoofdweg Romeinse christenen ontmoet, die hem tegemoet gekomen zijn om hem te ontvangen in de hoofdstad van het Romeinse Rijk (Hand 28:15). "Sinds vele jaren" waren er diverse gemeenten in Rome die samenkwamen (Rom. 15:23).
 
