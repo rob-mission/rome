@@ -9,9 +9,9 @@ tags:
 - Rome
 - Vroege Kerk
 related_posts: []
-featured_image: "/uploads/constanza4-1.jpg"
+featured_image: "/uploads/trastevere-1.jpg"
 images:
-- "/uploads/constanza4-1.jpg"
+- "/uploads/trastevere-1.jpg"
 
 ---
 In de vroegchristelijke kerken in Rome zijn prachtige mozaïeken te vinden, maar zonder kennis van deze oude wereld kijk je wellicht over belangrijke symbolen heen. In dit artikel worden de meest belangrijke vroegchristelijke symbolen ontcijferd.
