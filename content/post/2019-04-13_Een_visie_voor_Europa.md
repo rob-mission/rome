@@ -1,11 +1,14 @@
 ---
 title: Een visie voor Europa
-date: 2019-04-13 00:04:13 +0000
+date: 2019-04-13T00:04:13.000+00:00
 related_posts: []
 description: Johannes Calvijn
-tags: []
+tags:
+- Evangelisatie
+- Kerkgeschiedenis
 featured_image: "/uploads/blog/Calvijn.png"
 omit_header_text: true
+
 ---
 Waarom is hij gekozen? Waarom Calvijn? Een student vroeg me eens "Is hij niet degene die schreef over predestinatie? Hoe kan je dan missionair werk doen?" Wacht even voordat je Calvijn terug op de plank zet.
 
