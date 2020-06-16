@@ -9,6 +9,8 @@ description: 'Flirten met Rome lijkt in de mode te zijn: protestanten zoeken toe
   deze tijd van verwarring geen warm hart toe aan het krachtige ethische geluid vanuit
   Rome? '
 tags:
+- Reformatie
+- Rome
 - Rooms-Katholicisme
 related_posts: []
 featured_image: "/uploads/blog/anna-church-fnULBa088dc-unsplash.jpg"
