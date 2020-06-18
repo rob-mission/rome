@@ -5,6 +5,7 @@ date: 2020-06-18T08:00:00+00:00
 description: 'Een overzicht van de wapenuitrusting van God uit Efeze 6: 10-20 door
   Martyn Lloyd Jones. '
 tags:
+- Martyn Lloyd-Jones
 - Nieuwe Testament
 - Kerkgeschiedenis
 related_posts: []
