@@ -13,7 +13,7 @@ images:
 - "/uploads/castle-1.jpg"
 
 ---
-Een overzicht van de _Wapenuitrusting van God_ uit Efeze 6: 10-20 door Martyn Lloyd Jones. 
+Martyn LLoyd Jones bepreekte de Efezebrief vers na vers in Westminster Chapel in Londen. In de serie over Efeze 6: 10-20, uitgegeven onder de titel _The christian soldier_, bespreekt hij ieder onderdeel van de wapenrusting uitvoerig. Hij heeft het niet alleen over de Bijbelse leerstellingen, maar geeft ook praktische toepassingen van de waarheid voor het leven van iedere dag. Hieronder volgt een samenvatting van de wapenuitrusting van God. 
 
 **Gordel van de waarheid**  
 _Betekenis_: Algemene waarheden of doctrines uit de Schrift.  
@@ -30,7 +30,7 @@ _Misleiding_: “Ik heb een visioen van de Heer gekregen”; “Ik ben niet vol 
 _Toepassing_: Zie jezelf als een onwaardige dienaar (Luk. 17:7-10) om trots en hoogmoed te bannen. Het enige waarvan je zeker kunt zijn is Christus’ gerechtigheid. Let er op dat je niet door alles wat je doet, jezelf opgewekt houdt. Bereid je in het alledaagse leven voor op de komende wereld.
 
 **Sandalen**  
-_Betekenis_: Wees in balans. Je moet grip hebben en weten waar je voor staat. Compromissen maken met betrekking tot het Woord van God leidt tot uitglijden in de doctrine, gevolgd door de praktijk.   
+_Betekenis_: Wees in balans. Je moet grip hebben en weten waar je voor staat. Compromissen maken met betrekking tot het Woord van God leidt tot uitglijden in de doctrine, gevolgd door de praktijk.  
 _Referenties_: Tit. 3:1; 2 Kor. 1:19; Ef. 4:14.  
 _Gestalte_: Niet gebalanceerd staan in de samenleving, onkunde hebben over de Schriften.  
 _Misleiding_: Je hebt een gedeeld hart: je weet niet wat te geloven en je maakt compromissen, wellicht om aardig gevonden worden of om eenheid te bevorderen. Je begeeft je in activiteiten om andersdenkenden te pleasen. Vragen die je aan het twijfelen kunnen brengen zijn bijvoorbeeld: “Geloof je echt dat de Bijbel het geïnspireerde Woord van God is?”; “Geloof je in de opstanding en in wonderen?”  
@@ -40,7 +40,7 @@ _Toepassing_: Weet wat je gelooft. Wees waakzaam. Wees bekend met satans subtili
 _Betekenis_: Een snelle toepassing van datgene wat je gelooft als een antwoord op wat de duivel op je afvuurt.  
 _Referenties_: 2 Tim. 3:12; 1 Pet. 4, 5:8-9; 1 Joh. 5:4; Gen. 15:1.  
 _Gestalte_: De strijd speelt zich af in de gedachtewereld of moeilijke omstandigheden waarin je jezelf kunt bevinden.  
-_Misleiding_: Het is satans tactiek om er voor te zorgen dat je niet in de gaten hebt dat demonen vurige pijlen afvuren. Satan drijft de je in wanhoop en hopeloosheid. Het is mogelijk geplaagd te worden met verschrikkelijke gedachten zoals: “God is niet in je geïnteresseerd”. Deze gedachten komen niet uit jezelf voort.   
+_Misleiding_: Het is satans tactiek om er voor te zorgen dat je niet in de gaten hebt dat demonen vurige pijlen afvuren. Satan drijft de je in wanhoop en hopeloosheid. Het is mogelijk geplaagd te worden met verschrikkelijke gedachten zoals: “God is niet in je geïnteresseerd”. Deze gedachten komen niet uit jezelf voort.  
 _Toepassing_: Het geloof richt zich op Gods karakter en beloften. Ken dit en dan ben je klaar om het schild op te heffen. Antwoord in verzoekingen dat wat God heeft beloofd zal uitkomen. Het schild opheffen betekent dat je laat zien dat je afhankelijk bent van God en Zijn genade in Christus.
 
 **Helm**  
@@ -53,7 +53,7 @@ _Toepassing_: Focus niet op de details van het christelijke leven, maar op de gr
 **Zwaard**  
 _Betekenis_: Beseffen gereed te zijn om satan te kunnen weerstaan. Het gaat om een gedetailleerde kennis van de Schriften.  
 _Referenties_: Mat. 4:1; Luk. 10:25-26; Joh. 10:31-36; Hand. 17.  
-_Gestalte_: Een leeg of hunkerend gevoel en een gevoel van hopeloosheid. Jezelf laten intimideren door de vijand. Of mogelijk heb je overmoed door te denken dat je satan kunt verslaan op eigen kracht.   
+_Gestalte_: Een leeg of hunkerend gevoel en een gevoel van hopeloosheid. Jezelf laten intimideren door de vijand. Of mogelijk heb je overmoed door te denken dat je satan kunt verslaan op eigen kracht.  
 _Misleiding_: “Ik weet niet precies wat er wel en niet bij het Woord van God hoort”; “Ik kan niet alles geloven in de Schriften”; “Ik weet niet of de Bijbel door God geïnspireerd is”.  
 _Toepassing_: Realiseer jezelf dat christen-zijn niet betekent dat je zonder zorgen zal leven. Het Woord is compleet betrouwbaar (2 Tim. 3:16; 2 Pet. 1:19-21), en gebruik het Woord dan ook om onwaarheden te ontmaskeren. De Bijbel is de standaard voor alles. Ken het Woord door-en-door. Zorg dat je in refereren naar teksten ook de vindplaats weet.
 
@@ -61,8 +61,8 @@ _Toepassing_: Realiseer jezelf dat christen-zijn niet betekent dat je zonder zor
 _Betekenis_: De uitrusting kan niet gebruikt worden zonder de omgang met God.  
 _Referenties_: Luk. 18:1; Ef. 2:18; Rom. 8:26; Fil. 3:3.  
 _Gestalte_: Een dode orthodoxe kerk, zonder echt vurig gebed. Formulier-gebeden zijn vaak een letter zonder geest. Subjectiviteit kan centraal staan in het gebed: het gaat om mijn problemen, moeilijkheden en vrees.  
-_Misleiding_: Herhaling van gebeden. Het gebed is gebaseerd op rituelen en vormen: “We zullen nu een gebed voordragen”. Het _zelf_ is de laatste vijand, je denkt wellicht teveel na over jezelf. Twijfels die naar boven kunnen komen zijn bijvoorbeeld: "wat zal mij overkomen, en wat zullen de gevolgen zijn?" Je krijgt zelfmedelijden en je bent verslagen.   
-_Toepassing_: Bid met vuur. Het gebed hoeft niet te bestaan uit prachtige zinnen en hoeft niet leerstellig perfect te zijn. Laat de Heilige Geest je leiden in het gebed. Worstel met God, laat Hem niet gaan op de beloften. Stop met de introspectieve houding en raak zelfmedelijden kwijt door voor andere mensen te bidden. Op die manier krijg je het grotere plaatje opnieuw in beeld en raak je de subjectiviteit houding kwijt. 
+_Misleiding_: Herhaling van gebeden. Het gebed is gebaseerd op rituelen en vormen: “We zullen nu een gebed voordragen”. Het _zelf_ is de laatste vijand, je denkt wellicht teveel na over jezelf. Twijfels die naar boven kunnen komen zijn bijvoorbeeld: "wat zal mij overkomen, en wat zullen de gevolgen zijn?" Je krijgt zelfmedelijden en je bent verslagen.  
+_Toepassing_: Bid met vuur. Het gebed hoeft niet te bestaan uit prachtige zinnen en hoeft niet leerstellig perfect te zijn. Laat de Heilige Geest je leiden in het gebed. Worstel met God, laat Hem niet gaan op de beloften. Stop met de introspectieve houding en raak zelfmedelijden kwijt door voor andere mensen te bidden. Op die manier krijg je het grotere plaatje opnieuw in beeld en raak je de subjectiviteit houding kwijt.
 
 Literatuur:  
 Lloyd Jones, D.M. (1977) _The Christian soldier: an exposition of Ephesians 6:10 to 20,_ Edinburgh: The Banner of Truth.
