@@ -1,6 +1,6 @@
 ---
 omit_header_text: true
-title: Martyn Lloyd Jones over de wapenuitrusting (Efeze 6)
+title: Martyn Lloyd Jones over de wapenuitrusting van God
 date: 2020-06-18T09:00:00+00:00
 description: 'Een overzicht van de Wapenuitrusting van God uit Efeze 6: 10-20 door
   Martyn Lloyd Jones. '
