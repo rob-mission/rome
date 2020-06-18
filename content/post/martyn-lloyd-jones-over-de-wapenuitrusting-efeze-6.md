@@ -1,8 +1,8 @@
 ---
 omit_header_text: true
-title: Martyn Lloyd Jones over de wapenuitrusting van God
+title: Martyn Lloyd-Jones over de wapenuitrusting van God
 date: 2020-06-18T08:00:00+00:00
-description: 'Een overzicht van de Wapenuitrusting van God uit Efeze 6: 10-20 door
+description: 'Een overzicht van de wapenuitrusting van God uit Efeze 6: 10-20 door
   Martyn Lloyd Jones. '
 tags:
 - Nieuwe Testament
@@ -13,7 +13,7 @@ images:
 - "/uploads/castle-1.jpg"
 
 ---
-Martyn LLoyd Jones bepreekte de Efezebrief vers na vers in Westminster Chapel in Londen. In de serie over Efeze 6: 10-20, uitgegeven onder de titel _The christian soldier_, bespreekt hij ieder onderdeel van de wapenrusting uitvoerig. Hij heeft het niet alleen over de Bijbelse leerstellingen, maar geeft ook praktische toepassingen van de waarheid voor het leven van iedere dag. Hieronder volgt een samenvatting van de wapenuitrusting van God. 
+Martyn LLoyd-Jones bepreekte de Efezebrief vers na vers in Westminster Chapel in Londen. In de serie over Efeze 6: 10-20, uitgegeven onder de titel _The christian soldier_, bespreekt hij ieder onderdeel van de wapenrusting uitvoerig. Hij heeft het niet alleen over de Bijbelse leerstellingen, maar geeft ook praktische toepassingen van de waarheid voor het leven van iedere dag. Hieronder volgt een samenvatting over de wapenuitrusting van God.
 
 **Gordel van de waarheid**  
 _Betekenis_: Algemene waarheden of doctrines uit de Schrift.  
