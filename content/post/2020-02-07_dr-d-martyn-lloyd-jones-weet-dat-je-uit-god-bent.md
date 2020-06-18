@@ -8,6 +8,7 @@ featured_image: "/uploads/LloydJones.png"
 omit_header_text: true
 tags:
 - Kerkgeschiedenis
+- Martyn Lloyd-Jones
 related_posts: []
 
 ---
