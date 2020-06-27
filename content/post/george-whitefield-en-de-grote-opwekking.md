@@ -1,7 +1,7 @@
 ---
 omit_header_text: true
 title: George Whitefield en de Grote Opwekking
-date: 2020-07-02T22:00:00+00:00
+date: 2020-07-30T22:00:00+00:00
 description: 'Van George Whitefield (1714-1770) kan gezegd worden dat hij de grootste
   evangelist is aller tijden. Tijdens zijn leven barstte de Grote Opwekking uit in
   Engeland en Amerika. Whitefield preekte veertig tot zestig uur per week, en dat
