@@ -33,10 +33,10 @@ Na het **Edict van Milaan** (313) volgden de ontwikkelingen binnen de christelij
 
 Aan het begin van de vierde eeuw kwam paus **Innocentius I** (402-17) met het idee dat het pausdom in het verleden wettig ingesteld was en de bisschop van Rome officieel Petrus’ opvolger. Volgens Innocentius is de kerk van Rome normatief voor het ware christelijke geloof. Bisschoppen in Italië, Spanje, Gallië, Sicilië en Afrika zouden zich moeten laten leiden door de Romeinse bisschop.[\[2\]](#_ftn2) Tientallen jaren later, tijdens paus **Leo I** (440-61), kreeg de bisschop van Rome niet alleen het hoogste gezag in leerstellige kwesties, maar werd de paus de ‘_caput Ecclesiae’,_ het hoofd van de Westerse kerk. Paus Leo I maakte voor het eerst gebruik van de titel ‘plaatsvervanger van Christus’.
 
-Toen het jaar 476 aanbrak en het West-Romeinse Rijk ten val kwam, eindigden de ontwikkelingen binnen de kerk van Rome niet, maar zocht de ‘opvolger van Petrus’ én de ‘plaatsvervanger van Christus’ naar andere wegen om de geestelijke en politieke macht te consolideren of uit te breiden.
+Toen het jaar 476 aanbrak en het West-Romeinse Rijk ten val kwam, eindigden de ontwikkelingen binnen de kerk van Rome niet, maar zocht de ‘opvolger van Petrus’ én de ‘plaatsvervanger van Christus’ naar andere wegen om de geestelijke en politieke macht uit te breiden.
 
 ***
 
-[\[1\]](#_ftnref1) De Chirico, Leonardo (2015) _The Papacy, its origin and role in the 21st century,_ Fearn, United Kingdom: Christian Focus Publications, 30-31. 
+[\[1\]](#_ftnref1) De Chirico, Leonardo (2015) _The Papacy, its origin and role in the 21st century,_ Fearn, United Kingdom: Christian Focus Publications, 30-31.
 
 [\[2\]](#_ftnref2) Denzler, Georg (2000) _Il papato: storia e attualità_, Torino: Claudiana, 20.
