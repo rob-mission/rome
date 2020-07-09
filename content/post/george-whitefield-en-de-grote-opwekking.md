@@ -15,7 +15,7 @@ images:
 - "/uploads/whitefield.jpg"
 
 ---
-Van George Whitefield (1714-1770) kan gezegd worden dat hij de grootste evangelist is aller tijden. Tijdens zijn leven barstte de Grote Opwekking uit in Engeland en Amerika. Whitefield preekte veertig tot zestig uur per week, en dat wel voor dertig jaar lang. Hij sprak niet alleen in huiskamers, maar ook voor menigten van twintig- tot veertigduizend mensen. Alhoewel hij wordt gerekend tot het methodisch calvinisme, hij was in feite een Anglicaanse priester tot aan het einde van zijn leven. Sommige protestanten bekeken hem daarom argwanend, en dachten dat hij als een incognito Jezuïet de mensen aan de paus van Rome probeerde te binden.
+Van George Whitefield (1714-1770) kan gezegd worden dat hij de grootste evangelist is aller tijden. Tijdens zijn leven barstte de Grote Opwekking uit in Engeland en Amerika. Whitefield preekte veertig tot zestig uur per week, en dat wel voor dertig jaar lang. Hij sprak niet alleen in huiskamers, maar ook voor menigten van twintig- tot veertigduizend mensen. Alhoewel hij wordt gerekend tot het methodisch calvinisme, was hij in feite een Anglicaanse priester tot aan het einde van zijn leven. Sommige protestanten bekeken hem daarom argwanend, en dachten dat hij als een incognito Jezuïet de mensen aan de paus van Rome probeerde te binden.
 
 _Een opwekking komt van God_
 
