@@ -1,7 +1,7 @@
 ---
 omit_header_text: true
 title: George Whitefield en de Grote Opwekking
-date: 2020-07-30T22:00:00+00:00
+date: 2020-07-09T07:00:00+00:00
 description: 'Van George Whitefield (1714-1770) kan gezegd worden dat hij de grootste
   evangelist is aller tijden. Tijdens zijn leven barstte de Grote Opwekking uit in
   Engeland en Amerika. Whitefield preekte veertig tot zestig uur per week, en dat
@@ -13,7 +13,6 @@ related_posts: []
 featured_image: "/uploads/whitefield.jpg"
 images:
 - "/uploads/whitefield.jpg"
-draft: true
 
 ---
 Van George Whitefield (1714-1770) kan gezegd worden dat hij de grootste evangelist is aller tijden. Tijdens zijn leven barstte de Grote Opwekking uit in Engeland en Amerika. Whitefield preekte veertig tot zestig uur per week, en dat wel voor dertig jaar lang. Hij sprak niet alleen in huiskamers, maar ook voor menigten van twintig- tot veertigduizend mensen. Alhoewel hij wordt gerekend tot het methodisch calvinisme, hij was in feite een Anglicaanse priester tot aan het einde van zijn leven. Sommige protestanten bekeken hem daarom argwanend, en dachten dat hij als een incognito Jezuïet de mensen aan de paus van Rome probeerde te binden.
@@ -28,9 +27,9 @@ Enkele jaren nadat George Whitefield de noodzaak van de wedergeboorte ontdekte, 
 
 De meest directe aanvallen ondervond hij tijdens zijn preken. Niet alleen de plaats waarop hij stond te preken werd meer dan eens onder zijn voeten afgebroken, ook werd hij eens vol geraakt door rondvliegende stenen. Maar in deze situaties had hij hetzelfde vuur als John Wesley. Zo werd bijvoorbeeld Wesley’s preek in het jaar 1743 hardhandig verstoord door rebellen die in het gebouw een grote ravage aanrichtten. Ze bedreigden allen te vermoorden, en zwoerden dat het voor Wesley de laatste keer was dat hij daar gesproken had. Meteen bevestigde Wesley het tegendeel door hen te verkondigen dat Christus voor hen allen gestorven was.
 
-_Laat een opwekking niet tot onenigheid leiden_
+_Laat een opwekking niet tot onnodige verdeeldheid leiden_
 
-Tijdens zijn studietijd in Oxford werd George Whitefield uitgenodigd door John en Charles Wesley om deel te nemen aan de _Holy Club,_ een klein onbekend groepje studenten wat samenkwam om elkaar aan te vuren in de toewijding aan God en het doen van goede werken. Normaliter besteedden zij drie uren in de morgen in het bestuderen van de Bijbel in het Grieks en het bediscussiëren van geschriften uit het verleden. George Whitefield was een van de eersten uit deze groep die tot bekering kwam.
+Tijdens zijn studietijd in Oxford werd George Whitefield uitgenodigd door John en Charles Wesley om deel te nemen aan de _Holy Club,_ een klein onbekend groepje studenten wat samenkwam om elkaar aan te vuren in de toewijding aan God en het doen van goede werken. Normaliter besteedden zij drie uren in de morgen in het bestuderen van de Bijbel in het Grieks en het bediscussiëren van geschriften uit het verleden. George Whitefield was een van de eersten uit deze groep die tot geloof kwam.
 
 Toen John Wesley zelf de nieuwe geboorte ervoer na zijn ‘mislukte’ missionaire reis naar Georgia in Amerika was George Whitefield al in de open velden aan het preken. Whitefield zag in John een goede vriend en medestrijder en introduceerde hem aan zijn hoorders. Inmiddels was zijn publiek uitgegroeid tot duizenden. Tijdens Whitefield’s missionaire reis naar Amerika sloeg John Wesley echter een andere weg in. Hij predikte de wedergeboorte, maar ontkende de opvatting van de volharding van de heiligen en leerde de mogelijkheid om een perfect christelijk leven te leiden. George Whitefield voelde zich genoodzaakt om zich van de Wesley’s te distantiëren, maar het was met pijn in zijn hart. Zo ontstonden er twee belangrijke stromingen in de opwekkingsbeweging.
 
@@ -38,7 +37,7 @@ Na verloop van tijd besloot Whitefield dat hij er alles aan zou doen om verdeeld
 
 Whitefield’s groep van volgelingen groeide gestaag, maar toch gaf hij de mogelijkheid op om een eigen tak van het methodisme te verder uit te bouwen. Toen het vuur van de onenigheid tussen Whitefield en de Wesley’s was uitgedoofd, begon hij zelfs samen te werken en te preken vóór John Wesley. Zijn wens was dat, wanneer hij kwam te overlijden, zijn vriend John Wesley de preek zou verzorgen, wat deze dan ook deed in het jaar 1770.
 
-Whitefield verlangde Christus’ zaak dienen en hij wilde niet zijn eigen koninkrijk bouwen. Sommige tijdgenoten vonden dat hij te ver ging door samen te werken met de Wesley’s, niettemin geeft zijn manier van handelen inspiratie om niet te exclusief te denken. Verrassend genoeg leidde Whitefield’s latere samenwerking met de Wesley’s ertoe dat het Wesleyaanse methodisme sterk beïnvloed werd door Whitefield’s calvinistische theologie.
+Whitefield verlangde Christus’ zaak dienen en hij wilde niet zijn eigen koninkrijk bouwen. Sommige tijdgenoten vonden dat hij te ver ging door samen te werken met de Wesley’s. Verrassend genoeg leidde Whitefield’s samenwerking met de Wesley’s ertoe dat het Wesleyaanse methodisme sterk beïnvloed werd door Whitefield’s calvinistische theologie.
 
 Literatuur
 
