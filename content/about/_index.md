@@ -13,7 +13,7 @@ identifier: _contact
 weight: "1"
 
 ---
-De komende twee jaar zal ik een training in kerkplanting volgen in projecten in Rome die aangesloten zijn bij het City to City Europe netwerk. City to City Europe is een interkerkelijk netwerk van christelijke gemeenten. Zij zetten zich in om het Evangelie te verspreiden in Europese steden. Tijdens deze tweejarige training ontvang ik een leiderschapstraining, en zal ik me gaan verdiepen in het kerkplantingswerk. De mogelijkheid is er om betrokken te raken in huisgroepen, evangelisatie op de universiteiten en het opstarten van een nieuwe christelijke gemeenschap. Het doel is om toegerust te worden om in de toekomst nieuwe projecten te kunnen coördineren in Italië.
+De komende twee jaar (2019-2021) zal ik een training in kerkplanting volgen in projecten in Italië (Rome en Perugia) die aangesloten zijn bij het City to City Europe netwerk. City to City Europe is een interkerkelijk netwerk van christelijke gemeenten. Zij zetten zich in om het Evangelie te verspreiden in Europese steden. Tijdens deze tweejarige training ontvang ik een leiderschapstraining, en zal ik me gaan verdiepen in het kerkplantingswerk. De mogelijkheid is er om betrokken te raken in huisgroepen, evangelisatie op de universiteiten en het opstarten van een nieuwe christelijke gemeenschap. Het doel is om toegerust te worden om in de toekomst nieuwe projecten te kunnen coördineren in Italië.
 
 Naast deze training ben ik actief voor Stichting In de Rechte Straat (IRS). Zo schrijf ik voor de Italiaanstalige [website](https://www.sentiero-cristiano.it/) van IRS waar zinzoekers terecht kunnen met hun vragen over het christelijke geloof.
 
