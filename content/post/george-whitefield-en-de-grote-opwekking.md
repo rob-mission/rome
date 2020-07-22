@@ -1,7 +1,7 @@
 ---
 omit_header_text: true
 title: George Whitefield en de Grote Opwekking
-date: 2020-07-09T07:00:00+00:00
+date: 2020-07-09T07:00:00.000+00:00
 description: 'Van George Whitefield (1714-1770) kan gezegd worden dat hij de grootste
   evangelist is aller tijden. Tijdens zijn leven barstte de Grote Opwekking uit in
   Engeland en Amerika. Whitefield preekte veertig tot zestig uur per week, en dat
@@ -37,7 +37,7 @@ Na verloop van tijd besloot Whitefield dat hij er alles aan zou doen om verdeeld
 
 Whitefield’s groep van volgelingen groeide gestaag, maar toch gaf hij de mogelijkheid op om een eigen tak van het methodisme te verder uit te bouwen. Toen het vuur van de onenigheid tussen Whitefield en de Wesley’s was uitgedoofd, begon hij zelfs samen te werken en te preken vóór John Wesley. Zijn wens was dat, wanneer hij kwam te overlijden, zijn vriend John Wesley de preek zou verzorgen, wat deze dan ook deed in het jaar 1770.
 
-Whitefield verlangde Christus’ zaak dienen en hij wilde niet zijn eigen koninkrijk bouwen. Sommige tijdgenoten vonden dat hij te ver ging door samen te werken met de Wesley’s. Verrassend genoeg leidde Whitefield’s samenwerking met de Wesley’s ertoe dat het Wesleyaanse methodisme sterk beïnvloed werd door Whitefield’s calvinistische theologie.
+Whitefield verlangde Christus’ zaak te dienen en hij wilde niet zijn eigen koninkrijk bouwen. Sommige tijdgenoten vonden dat hij te ver ging door samen te werken met de Wesley’s. Verrassend genoeg leidde Whitefield’s samenwerking met de Wesley’s ertoe dat het Wesleyaanse methodisme sterk beïnvloed werd door Whitefield’s calvinistische theologie.
 
 Literatuur
 
