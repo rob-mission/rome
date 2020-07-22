@@ -20,11 +20,12 @@ languageName = "Dutch"
 title = "Gemeentestichting | Rob van der Dussen"
 weight = 2
 [params]
+cover_dimming_class = "bg-black-40"
 background_color_class = "bg-black"
 description = "New initiatives, a revolutionary message and an ancient city"
 facebook = ""
 favicon = ""
-featured_image = "/uploads/join_the_movement.jpg"
+featured_image = "/uploads/Perugia.jpg"
 github = ""
 gitlab = ""
 instagram = ""
