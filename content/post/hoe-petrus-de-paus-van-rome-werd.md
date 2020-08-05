@@ -1,7 +1,7 @@
 ---
 omit_header_text: true
 title: Hoe Petrus de paus van Rome werd
-date: 2020-08-04T22:00:00+00:00
+date: 2020-08-05T07:00:00+00:00
 description: 'Rome en de apostel Petrus zijn al eeuwen lang met elkaar verbonden.
   In de Sint-Pietersbasiliek, hoog boven de plaats waar de paus normaal gezien de
   mis voordraagt, staat met grote letters in de koepel geschreven: “Gij zijt Petrus,
