@@ -1,7 +1,7 @@
 ---
 omit_header_text: true
 title: Hoe Petrus de paus van Rome werd
-date: 2020-08-06T22:00:00+00:00
+date: 2020-08-04T22:00:00+00:00
 description: 'Rome en de apostel Petrus zijn al eeuwen lang met elkaar verbonden.
   In de Sint-Pietersbasiliek, hoog boven de plaats waar de paus normaal gezien de
   mis voordraagt, staat met grote letters in de koepel geschreven: “Gij zijt Petrus,
@@ -16,7 +16,6 @@ related_posts: []
 featured_image: "/uploads/peter2.jpg"
 images:
 - "/uploads/peter2.jpg"
-draft: true
 
 ---
 Rome en de apostel Petrus zijn al eeuwen lang met elkaar verbonden. In de Sint-Pietersbasiliek, hoog boven de plaats waar de paus de mis voordraagt, staat met grote letters in de koepel geschreven: “Gij zijt Petrus, en op deze rots zal Ik Mijn Kerk bouwen. Aan u zal Ik de sleutels van het Koninkrijk der Hemelen geven”. Met deze tekst wordt gerefereerd naar het moment waarop Jezus alle macht zou hebben overgedragen aan de apostel Petrus. Tientallen meters lager, onder de imposante baldakijn, bevindt zich volgens de overleveringen het graf van de apostel Petrus. Ook is de basiliek in bezit van de _‘Cathedra Petri’_ (de stoel van Petrus), alhoewel uit onderzoek gebleken is dat deze stoel heel wat eeuwen later gefabriceerd is.
