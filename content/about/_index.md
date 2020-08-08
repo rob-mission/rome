@@ -13,7 +13,7 @@ identifier: _contact
 weight: "1"
 
 ---
-Voor twee jaar (2019-2021) hoop ik een training in kerkplanting volgen in projecten in Italië (Rome en Perugia) die aangesloten zijn bij het City to City Europe netwerk. City to City Europe is een interkerkelijk netwerk van christelijke gemeenten. Zij zetten zich in om het Evangelie te verspreiden in Europese steden. Tijdens deze tweejarige training ontvang ik een leiderschapstraining, en zal ik me gaan verdiepen in het kerkplantingswerk. De mogelijkheid is er om betrokken te raken in huisgroepen, evangelisatie op de universiteiten en het opstarten van een nieuwe christelijke gemeenschap. Het doel is om toegerust te worden om in de toekomst nieuwe projecten te kunnen coördineren in Italië.
+Voor twee jaar (2019-2021) hoop ik een training in kerkplanting volgen in projecten in Italië (Rome en Perugia) die aangesloten zijn bij het City to City Europe netwerk. City to City Europe is een interkerkelijk netwerk van christelijke gemeenten. Zij zetten zich in om het Evangelie te verspreiden in Europese steden. Tijdens deze tweejarige training ontvang ik een leiderschapstraining, en zal ik me gaan verdiepen in het kerkplantingswerk. De mogelijkheid is er om betrokken te raken in huisgroepen, evangelisatie op de universiteiten en het opstarten van een nieuwe christelijke gemeenschap. Het doel is om toegerust te worden om nieuwe projecten te kunnen coördineren.
 
 Op dit moment ben ik betrokken in een christelijke gemeente in Perugia. Op de universiteit leid ik de studentengroep van de gemeente. Daarnaast ben ik onderdeel van een team dat een nieuw project op aan het starten is in een nabijgelegen stadje. Dit stadje heeft 40.000 inwoners maar tot nu toe zijn er nog geen christelijke gemeenten gevestigd.
 
