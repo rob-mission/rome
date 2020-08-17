@@ -1,7 +1,7 @@
 ---
 omit_header_text: true
 title: De oorlog achter de oorlog
-date: 2020-08-17T15:00:00+00:00
+date: 2020-08-17T14:00:00+00:00
 description: "“Het wordt mij steeds duidelijker dat we een grote volkse nationale
   kerk krijgen die het Christendom in zijn wezen niet meer verdraagt. De vraag is
   inderdaad Germanendom of Christendom, en hoe eerder dit conflict openlijk aan de
@@ -11,9 +11,9 @@ tags:
 - Dietrich Bonhoeffer
 - Tweede Wereldoorlog
 related_posts: []
-featured_image: "/uploads/erika-fletcher-0ywr1isaucq-unsplash.jpg"
+featured_image: "/uploads/foto-hitler.jpg"
 images:
-- "/uploads/erika-fletcher-0ywr1isaucq-unsplash.jpg"
+- "/uploads/foto-hitler.jpg"
 
 ---
 > “Het wordt mij steeds duidelijker dat we een grote volkse nationale kerk krijgen die het Christendom in zijn wezen niet meer verdraagt. De vraag is inderdaad Germanendom of Christendom, en hoe eerder dit conflict openlijk aan de dag treedt hoe beter”.[\[1\]](#_ftn1) 
