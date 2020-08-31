@@ -1,6 +1,6 @@
 ---
 omit_header_text: true
-title: Was er een paus in het Rome van de tweede eeuw?
+title: Was er vanaf het begin een paus in de kerk van Rome?
 date: 2020-09-03T09:00:00+00:00
 description: 'Als er een vraag is waar niet één christen onderuit kan is het deze:
   “Is de paus van Rome de opvolger van Petrus?” De Rooms-Katholieke traditie beweert
