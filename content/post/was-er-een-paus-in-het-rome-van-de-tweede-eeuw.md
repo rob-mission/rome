@@ -1,6 +1,6 @@
 ---
 omit_header_text: true
-title: Was er vanaf het begin een paus in de kerk van Rome?
+title: Was er een paus in het Rome van de tweede eeuw?
 date: 2020-09-03T09:00:00+00:00
 description: 'Als er een vraag is waar niet één christen onderuit kan is het deze:
   “Is de paus van Rome de opvolger van Petrus?” De Rooms-Katholieke traditie beweert
@@ -19,7 +19,6 @@ related_posts: []
 featured_image: "/uploads/perugino.jpg"
 images:
 - "/uploads/perugino.jpg"
-draft: true
 
 ---
 Als er een vraag is waar niet één christen onderuit kan is het deze: “Is de paus van Rome de opvolger van Petrus?” De Rooms-Katholieke traditie beweert van wel, en in het conciliedocument _Pastor Aeternus,_ samengesteld tijdens Vaticanum I (1869-1870) staat te lezen:
@@ -78,6 +77,6 @@ Vanaf het eind van de eerste eeuw kwam de Romeinse kerk uit haar onderdrukte pos
 
 Lees [hier](https://www.robvanderdussen.com/nl/post/hoe-petrus-de-paus-van-rome-werd/ "Hoe Petrus de paus van Rome werd") verder hoe Petrus de paus van Rome werd.
 
-Dit artikel is een samenvatting van mijn academisch paper “The Leaders of the Roman Church (95 AD-180 AD)”. 
+Dit artikel is een samenvatting van mijn artikel “The Leaders of the Roman Church (95 AD-180 AD)”.
 
 De quotes zijn overgenomen uit Fahner, Chr. (2000) _Eusebius’ Kerkgeschiedenis_, Zoetermeer: Boekencentrum; daarnaast zijn online Nederlandse vertalingen gebruikt voor [1 Clemens](https://godsplan.eu/index_htm_files/Clement%20uit%20Rome_brief1.pdf "1 Clemens") en [_Pastor Aeternus_](https://www.rkdocumenten.nl/rkdocs/index.php?mi=600&doc=116 "Pastor Aeternus").
