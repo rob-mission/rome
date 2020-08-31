@@ -1,7 +1,7 @@
 ---
 omit_header_text: true
 title: Was er een paus in het Rome van de tweede eeuw?
-date: 2020-09-03T09:00:00+00:00
+date: 2020-08-31T09:00:00+00:00
 description: 'Als er een vraag is waar niet één christen onderuit kan is het deze:
   “Is de paus van Rome de opvolger van Petrus?” De Rooms-Katholieke traditie beweert
   van wel, en in het conciliedocument Pastor Aeternus, samengesteld tijdens Vaticanum
