@@ -16,7 +16,7 @@ images:
 - "/uploads/doortocht.jpg"
 
 ---
-In de Vroege Kerk werd de doop met verschillende Oudtestamentische beelden uitgelegd. Eén daarvan springt er uit: de doortocht door de Rode Zee. In dit artikel gaat het over Augustinus’ geestelijke uitleg van deze geschiedenis. In de Vroegchristelijke bijbeluitleg worden vaak alle beelden uit het verhaal geduid. Augustinus vormt hierop geen uitzondering benoemt alle aspecten om de betekenis van de doop ten volle uit te leggen aan zijn doopleerlingen.
+In de Vroege Kerk werd de doop met verschillende Oudtestamentische beelden uitgelegd. Eén daarvan springt er uit: de doortocht door de Rode Zee. In dit artikel gaat het over Augustinus’ geestelijke uitleg van deze geschiedenis. In de Vroegchristelijke bijbeluitleg worden vaak alle beelden uit het verhaal geduid. Augustinus vormt hierop geen uitzondering, hij benoemt alle aspecten om de betekenis van de doop ten volle uit te leggen aan zijn doopleerlingen.
 
 _Het oude leven_
 
@@ -24,17 +24,21 @@ Het volk Israël leefde in slavendienst in Egypte, maar dat is ook onze realitei
 
 _Tot aan het water_
 
-Het volk Israël werd tot aan de Rode Zee achtervolgd door de Egyptenaren. “Wat betekent dat, tot aan de Rode Zee?”, vraagt Augustinus aan zijn doopleerlingen. “Tot aan het vont….” (s. 213, 9). Tijdens de doop vindt namelijk het doortrekken van de Rode Zee plaats: “Ook ben u door de Rode Zee heengetrokken, door de doop….” (s. 260B, 1).
+Het volk Israël werd tot aan de Rode Zee achtervolgd door de Egyptenaren. “Wat betekent dat, tot aan de Rode Zee?”, vraagt Augustinus aan zijn doopleerlingen. “Tot aan het vont….” (s. 213, 9) is zijn antwoord. Tijdens de doop vindt namelijk het doortrekken van de Rode Zee plaats: “Ook ben u door de Rode Zee heengetrokken, door de doop….” (s. 260B, 1).
 
 _De doop en het bloed_
 
-Volgens Augustinus is het water van de doop geheiligd, want de doop zelf is van Christus afkomstig. Jezus is voor ons weggezonken in de Rode Zee, en daarom is het water roodgekleurd, door het bloed bevlekte kruis van Christus. 
+Volgens Augustinus is het water van de doop geheiligd, want de doop zelf is van Christus afkomstig. Jezus is voor ons weggezonken in de Rode Zee, en daarom is het water roodgekleurd, door het bloed bevlekte kruis van Christus.
 
 > Jullie die nog niet gekomen zijn, waarom zijn jullie bang om de Rode Zee door te gaan? Waarom is zij rood? Omdat het bloed van de Heer het geheiligd heeft (ps. 80, 8).
 
 _Een nieuw leven_
 
-En zoals het water van de Rode Zee de Egyptenaren geheel overweldigde, zo worden onze zonden uitgewist en gedood. “De joden worden door de zee bevrijd, de Egyptenaren worden erdoor overspoeld. De christenen worden bevrijd tot vergeving van hun zonden, terwijl de zonden door het doopsel worden uitgewist” (v. 11, 4). De doop betekent verlossing en de toegang tot een nieuw leven. Christus Zelf voert de gelovigen naar de overkant van de Rode Zee. 
+Zoals het water van de Rode Zee de Egyptenaren geheel overweldigde, zo worden onze zonden uitgewist en gedood. 
+
+> De joden worden door de zee bevrijd, de Egyptenaren worden erdoor overspoeld. De christenen worden bevrijd tot vergeving van hun zonden, terwijl de zonden door het doopsel worden uitgewist (v. 11, 4).
+
+ De doop betekent verlossing en de toegang tot een nieuw leven. Christus Zelf voert de gelovigen naar de overkant van de Rode Zee. We moeten koers zetten naar het beloofde land:
 
 > Nu wij van hen \[de beheersers van de duisternis\] verlost zijn door de doop, dat wil ‘door de Rode Zee’ eigenlijk zeggen, bloedrood door de heiliging van de gekruisigde Heer, moeten we niet terugverlangen naar Egypte (s. 223E, 2).
 
