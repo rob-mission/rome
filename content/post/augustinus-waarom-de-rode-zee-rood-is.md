@@ -7,6 +7,7 @@ description: 'In de Vroege Kerk werd de doop met verschillende Oudtestamentische
   gaat het over Augustinus’ geestelijke uitleg van deze geschiedenis. In de Vroegchristelijke
   bijbeluitleg worden vaak alle beelden uit het verhaal geduid. '
 tags:
+- Kerkgeschiedenis
 - Oude Testament
 - Augustinus
 - Vroege Kerk
