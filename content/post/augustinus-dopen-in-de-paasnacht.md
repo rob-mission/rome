@@ -12,9 +12,9 @@ tags:
 - Kerkgeschiedenis
 - Augustinus
 related_posts: []
-featured_image: ''
-images: []
-draft: true
+featured_image: "/uploads/augustine.jpg"
+images:
+- "/uploads/augustine-1.jpg"
 
 ---
 De doop is een overgang. In de Vroege Kerk werd het beeld van een doortocht vaak gebruikt. Zoals Israël droogvoets door de Rode Zee trok, zo wordt tijdens de doop de overgang van het oude naar het nieuwe leven gemaakt. Dit werd niet alleen zo uitgelegd, maar de gelovige werd symbolisch opgenomen en meegenomen in het verhaal van het volk Israël dat Egypte overhaast verliet. We nemen een kijkje in de dooptraditie in Augustinus’ gemeente in Hippo Regius, Noord-Afrika.
