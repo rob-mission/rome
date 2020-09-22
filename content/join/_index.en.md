@@ -35,11 +35,11 @@ Bank name: Rabobank
 
 BIC/Swift code: RABONL2U.
 
-Bank account (IBAN): NL14 RABO 0136983979
+Bank account (IBAN): NL54RABO0357856333 (new!)
 
 To: Stichting Werkers in de Wijngaard
 
-Ref.: Churchplanting in Rome*
+Ref.: Churchplanting in Italy* (optional: your name and details)
 
 Website: www.werkersindewijngaard.org
 
@@ -47,12 +47,16 @@ Website: www.werkersindewijngaard.org
 
 **Donate with another curency to the foundation in The Netherlands**
 
-Note that your bank may charge bankcosts. To avoid this, donate via transfergo.com to the foundation in The Netherlands. This is a good service in sending your money with very low transfer costs. Please send us a confirmation of your payment when using this service.
+Note that your bank may charge bankcosts. To avoid this, donate via transfergo.com to the foundation in The Netherlands. This is a good service in sending your money with very low transfer costs. Please send us via the contact form a confirmation of your payment when using this service.
 
 **Personal bank account ministry in United Kingdom (donate in pounds)**
 
 Bank name: Danske Bank
-Sortcode: 950149
-Accountnumber: 30304891
-To: J.A. van der Dussen
-Ref.: Churchplanting in Rome (optional: your name)
+
+Sortcode: 950149 
+
+Accountnumber: 30304891 
+
+To: J.A. van der Dussen 
+
+Ref.: Churchplanting in Italy (optional: your name and details)
