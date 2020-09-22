@@ -29,19 +29,17 @@ Dat u het werk in Italië financieel ondersteunt is een zegen voor ons en we dan
 
 Deze bediening werkt met een stichting genaamd "Werkers in de Wijngaard". Deze organisatie werkt met vrijwilligers en voorziet in een geestelijke, financiële en praktische infrastructuur voor missionaire werkers. De stichting heeft een ANBI-status wat betekent dat uw giften fiscaal aftrekbaar zijn.
 
-​
-
-**Bankgegevens stichting Werkers in de Wijngaard**
+​**Bankgegevens stichting Werkers in de Wijngaard**
 
 Naam: Rabobank
 
 BIC/Swift code: RABONL2U.
 
-Bankrekening (IBAN): NL14 RABO 0136983979
+Bankrekening (IBAN): NL54RABO0357856333 (nieuw!)
 
 T.n.v.: Stichting Werkers in de Wijngaard
 
-O.v.v.: Kerkplantingswerk in Rome*
+O.v.v.: Kerkplantingswerk in Italië* (optioneel: uw naam en contactgegevens)
 
 Website: www.werkersindewijngaard.org
 
