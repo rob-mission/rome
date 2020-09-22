@@ -6,7 +6,15 @@ description: Op deze pagina kunt u meer te weten komen over de co-auteurs van de
   op deze website.
 tags: []
 related_posts: []
-featured_image: ''
-images: []
+featured_image: "/uploads/lachlan-dempsey-6vpeodpfnas-unsplash.jpg"
+images:
+- "/uploads/lachlan-dempsey-6vpeodpfnas-unsplash.jpg"
 
 ---
+Deze pagina is onder constructie
+
+Auteur: Naam
+
+Over de auteur
+
+Ervaring
