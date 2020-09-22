@@ -28,7 +28,6 @@ fields:
   name: images
   label: images
 pages:
-- content/Activities/De co-auteurs/nummer-1.md
 - content/Activities/dick-lammers.md
 - content/post/1-petrus-getuigen-zijn-als-niemand-luistert.md
 - content/post/1-petrus-het-einde-van-de-grote-zendingsopdracht.md
