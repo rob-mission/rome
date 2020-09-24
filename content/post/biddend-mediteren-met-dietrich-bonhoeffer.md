@@ -32,6 +32,6 @@ Verder lezen:
 
 Bonhoeffer, Dietrich (2014) _Verborgen omgang. Over leven in gemeenschap_, Lagendijk, L. W. (vert. en inl), Utrecht: Kok.
 
-Over de auteur:
+Over de auteur van dit artikel:
 
 Dick Lammers is een theoloog en is een kenner van de werken van de Duitse theoloog en verzetsstrijder Dietrich Bonhoeffer. Hij is een goede vriend van mij en stelde zijn inspirerende teksten beschikbaar voor deze website.
