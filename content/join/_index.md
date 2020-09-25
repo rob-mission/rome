@@ -29,6 +29,8 @@ Dat u het werk in Italië financieel ondersteunt is een zegen voor ons en we dan
 
 Deze bediening werkt met een stichting genaamd "Werkers in de Wijngaard". Deze organisatie werkt met vrijwilligers en voorziet in een geestelijke, financiële en praktische infrastructuur voor missionaire werkers. De stichting heeft een ANBI-status wat betekent dat uw giften fiscaal aftrekbaar zijn.
 
+![](/uploads/afbeelding1.png)
+
 ​**Bankgegevens stichting Werkers in de Wijngaard**
 
 Naam: Rabobank
