@@ -29,6 +29,8 @@ Your partnership in the work of God in Italy is a blessing and we thank God for 
 
 This ministry works with a foundation called “Werkers in de Wijngaard”. This organisation freely provides a spiritual, financial and practical infrastructure for missionaries.
 
+![](/uploads/afbeelding3.png)
+
 **Bank account foundation/charity in The Netherlands (donate in euro's)**
 
 Bank name: Rabobank
@@ -53,10 +55,10 @@ Note that your bank may charge bankcosts. To avoid this, donate via transfergo.c
 
 Bank name: Danske Bank
 
-Sortcode: 950149 
+Sortcode: 950149
 
-Accountnumber: 30304891 
+Accountnumber: 30304891
 
-To: J.A. van der Dussen 
+To: J.A. van der Dussen
 
 Ref.: Churchplanting in Italy (optional: your name and details)
