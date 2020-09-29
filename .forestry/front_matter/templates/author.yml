@@ -22,3 +22,5 @@ fields:
       format: markdown
   label: Description
   description: description of the author
+pages:
+- content/Authors/RobvdDussen.md
