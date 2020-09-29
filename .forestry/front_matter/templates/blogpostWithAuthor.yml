@@ -8,6 +8,21 @@ fields:
 - type: datetime
   name: date
   label: date
+- name: coauteur
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: authors
+      file: content/Authors/RobvdDussen.md
+      path: 
+  label: Author
+  showOnly:
+    value: true
+  hidden: false
 - name: omit_header_text
   type: boolean
   label: Hide titles
@@ -27,21 +42,6 @@ fields:
 - type: image_gallery
   name: images
   label: images
-- name: coauteur
-  type: select
-  default: []
-  config:
-    required: false
-    options: []
-    source:
-      type: pages
-      section: authors
-      file: content/Authors/RobvdDussen.md
-      path: 
-  label: Author
-  showOnly:
-    value: true
-  hidden: false
 pages:
 - content/post/1-petrus-getuigen-zijn-als-niemand-luistert.md
 - content/post/1-petrus-het-einde-van-de-grote-zendingsopdracht.md
