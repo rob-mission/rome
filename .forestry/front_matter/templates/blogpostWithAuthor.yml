@@ -39,6 +39,9 @@ fields:
       file: 
       path: 
   label: Author
+  showOnly:
+    field: omit_header_text
+    value: true
 pages:
 - content/post/1-petrus-getuigen-zijn-als-niemand-luistert.md
 - content/post/1-petrus-het-einde-van-de-grote-zendingsopdracht.md
