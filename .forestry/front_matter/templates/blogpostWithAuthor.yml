@@ -27,6 +27,23 @@ fields:
 - type: image_gallery
   name: images
   label: images
+- name: author
+  type: field_group
+  config: {}
+  fields:
+  - name: author
+    type: select
+    default: []
+    config:
+      required: false
+      options: []
+      source:
+        type: pages
+        section: post
+        file: 
+        path: 
+    label: Author
+  label: Author
 pages:
 - content/post/1-petrus-getuigen-zijn-als-niemand-luistert.md
 - content/post/1-petrus-het-einde-van-de-grote-zendingsopdracht.md
