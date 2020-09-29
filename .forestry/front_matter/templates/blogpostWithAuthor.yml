@@ -1,5 +1,5 @@
 ---
-label: BlogPost
+label: BlogPostWithAuthor
 hide_body: false
 fields:
 - type: text
@@ -27,6 +27,11 @@ fields:
 - type: image_gallery
   name: images
   label: images
+- name: author
+  type: include
+  config: {}
+  template: blogpost
+  label: Author
 pages:
 - content/post/1-petrus-getuigen-zijn-als-niemand-luistert.md
 - content/post/1-petrus-het-einde-van-de-grote-zendingsopdracht.md
