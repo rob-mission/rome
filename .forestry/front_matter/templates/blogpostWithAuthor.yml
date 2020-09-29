@@ -27,22 +27,17 @@ fields:
 - type: image_gallery
   name: images
   label: images
-- name: author
-  type: field_group
-  config: {}
-  fields:
-  - name: author
-    type: select
-    default: []
-    config:
-      required: false
-      options: []
-      source:
-        type: pages
-        section: authors
-        file: 
-        path: 
-    label: Author
+- name: coauteur
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: authors
+      file: 
+      path: 
   label: Author
 pages:
 - content/post/1-petrus-getuigen-zijn-als-niemand-luistert.md
