@@ -39,7 +39,7 @@ fields:
       options: []
       source:
         type: pages
-        section: post
+        section: authors
         file: 
         path: 
     label: Author
