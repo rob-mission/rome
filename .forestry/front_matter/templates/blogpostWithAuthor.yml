@@ -36,7 +36,7 @@ fields:
     source:
       type: pages
       section: authors
-      file: 
+      file: content/Authors/RobvdDussen.md
       path: 
   label: Author
   showOnly:
