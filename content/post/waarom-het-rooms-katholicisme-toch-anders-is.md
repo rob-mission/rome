@@ -9,13 +9,13 @@ tags:
 - Rome
 - Rooms-Katholicisme
 related_posts: []
-featured_image: "/uploads/dsc_0596.JPG"
+featured_image: "/uploads/rome.jpg"
 images:
-- "/uploads/dsc_0596.JPG"
+- "/uploads/rome.jpg"
 coauteur: ''
 
 ---
-Het is verleidelijk om vierhonderd-en-drie jaar na het begin van de reformatie de verschillen tussen het protestantisme en het rooms-katholicisme te minimaliseren. Dit gaat niet omdat binnen het rooms-katholicisme de leerstellingen onderling met elkaar verbonden zijn en uiteindelijk terug te brengen zijn op twee basisprincipes. Deze twee ‘pilaren’ worden in dit artikel toegelicht. Dit artikel sluit aan op "[Flirten met Rome](https://www.robvanderdussen.com/nl/post/flirten-met-rome/ "Flirten met Rome")".
+Het is verleidelijk om vierhonderd-en-drie jaar na het begin van de reformatie de verschillen tussen het protestantisme en het rooms-katholicisme te minimaliseren. Dit gaat niet omdat binnen het rooms-katholicisme de leerstellingen onderling met elkaar verbonden zijn en uiteindelijk terug te brengen zijn op twee basisprincipes. Deze twee ‘pilaren’ worden in dit artikel toegelicht. Dit artikel is een vervolg op "[Flirten met Rome](https://www.robvanderdussen.com/nl/post/flirten-met-rome/ "Flirten met Rome")".
 
 _1. Het is allemaal zo slecht nog niet_
 
