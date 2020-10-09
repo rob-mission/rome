@@ -1,7 +1,7 @@
 ---
 coauteur: Authors/RobvdDussen.md
 omit_header_text: true
-title: Waar Romeinen 13 echt over gaat
+title: Romeinen 13 en het grote plan van God
 date: 2020-10-08T22:00:00+00:00
 description: 'Toen Paulus zijn brief aan de Romeinen schreef, was keizer Nero aan
   de macht. In de openingszinnen van het dertiende hoofdstuk lijkt Paulus te suggereren
