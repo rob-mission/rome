@@ -48,7 +48,7 @@ Zo wordt in de oosterse interpretatie de belijdenis van Petrus: “U bent de Mes
 
 _Geen hokjesdenken_
 
-Het is niet zo dat kerkvaders exclusief dachten en niet verschillende lijnen van bijbeluitleg konden volgen als het ging om de interpretatie van Mattheüs 16:18. Als voorbeeld kunnen de werken van Ambrosius van Milaan genoemd worden waarin de verschillende vormen van uitleg terug te vinden zijn. Allereerst schrijft hij in zijn commentaar op Lukas 9:20:
+Het is niet zo dat kerkvaders exclusief dachten en niet verschillende lijnen van bijbeluitleg konden volgen als het ging om de interpretatie van Mattheüs 16:18. Als voorbeeld kunnen de werken van Ambrosius van Milaan (339-397) genoemd worden waarin de verschillende vormen van uitleg terug te vinden zijn. Allereerst schrijft hij in zijn commentaar op Lukas 9:20:
 
 > Een steenrots is Christus. Zij dronken namelijk uit een geestelijke rots die met hen meetrok en die rots was Christus. Ook het innemende van deze naam heeft Hij zijn leerling niet misgund, zodat ook die een Petrus is, een steenrots, omdat hij aan de steenrots Christus het solide van zijn volharding en het onwankelbare van zijn geloof moest ontlenen. Doe uw best om op uw beurt een steenrots te zijn… Uw rots is het geloof, het fundament is het geloof van de kerk. Als u een rots bent, behoort u tot de kerk, omdat de kerk bovenop de rots staat.
 
