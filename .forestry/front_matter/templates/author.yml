@@ -21,7 +21,6 @@ fields:
       format: markdown
   label: Beschrijving
   description: Beschrijving van de auteur
-
 pages:
 - content/Authors/RobvdDussen.md
 - content/Authors/mvbemmelen.md
