@@ -1,0 +1,22 @@
+  <div class="mb3 pa4 mid-gray overflow-hidden">
+    {{ if .Date }}
+      <div class="f6">
+        {{ .Date.Format "January 2, 2006" }}
+      </div>
+    {{ end }}
+    <h1 class="f3 near-black">
+      <a href="{{ .Permalink }}" class="link black dim">
+        {{ .Title }}
+        <p class="f6 lh-copy mv0">
+          {{ with .Params.coauteur }}
+            {{ with $.Site.GetPage .}} 
+              By {{.Page.Params.Name}}
+            {{end}}
+          {{end}}
+        </p> 
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      {{ .Summary  }}
+    </div>
+  </div>

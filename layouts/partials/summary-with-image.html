@@ -18,7 +18,7 @@
             <p class="f6 lh-copy mv0">
               {{ with .Params.coauteur }}
                 {{ with $.Site.GetPage .}}
-                  By {{.Page.Params.authorname}}
+                  By {{.Page.Params.Name}}
                 {{end}}
               {{end}}
             </p> 
