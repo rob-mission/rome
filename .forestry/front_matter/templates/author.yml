@@ -3,11 +3,14 @@ label: Author
 hide_body: false
 display_field: name
 fields:
+- type: file
+  name: photo
+  label: Foto
 - name: name
   type: text
   config:
     required: false
-  label: Name
+  label: Naam
 - name: description
   type: textarea
   default: ''
@@ -16,22 +19,9 @@ fields:
     wysiwyg: false
     schema:
       format: markdown
-  label: Description
-  description: description of the author
-- name: authorname
-  type: text
-  config:
-    required: true
-  label: AuthorName
-- name: aboutauthor
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: AboutAuthor
+  label: Beschrijving
+  description: Beschrijving van de auteur
+
 pages:
 - content/Authors/RobvdDussen.md
 - content/Authors/mvbemmelen.md

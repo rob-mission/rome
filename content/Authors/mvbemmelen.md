@@ -1,9 +1,7 @@
 ---
-name: Matthijs
-description: beschrijving
-authorname: Matthijs van Bemmelen
-aboutauthor: schrijft geen artikelen
-draft: true
+name: Matthijs van Bemmelen
+photo: ''
+description: 
+draft: false
 
 ---
-hoi
