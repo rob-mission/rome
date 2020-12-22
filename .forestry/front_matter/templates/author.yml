@@ -22,5 +22,6 @@ fields:
   label: Beschrijving
   description: Beschrijving van de auteur
 pages:
+- content/Authors/DickLammers.md
 - content/Authors/RobvdDussen.md
 - content/Authors/mvbemmelen.md

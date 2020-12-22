@@ -15,11 +15,6 @@ sections:
   create: all
   match: "**/*"
 - type: directory
-  path: content/Activities
-  label: Activities
-  create: all
-  match: "**/*"
-- type: directory
   path: content/contact
   label: Contact
   create: all
