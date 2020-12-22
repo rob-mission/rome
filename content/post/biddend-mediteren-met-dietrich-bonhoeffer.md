@@ -1,7 +1,7 @@
 ---
 omit_header_text: true
 title: Biddend mediteren met Dietrich Bonhoeffer
-date: 2020-09-21T22:00:00+00:00
+date: 2020-09-21T22:00:00.000+00:00
 description: "“De eerste gedachte en het eerste woord van elke nieuwe dag behoren
   aan God toe”  Eerst een half uur stille tijd voor meditatie, dat was de nieuwe dagorde
   die de Duitse verzetstheoloog Dietrich Bonhoeffer (1906-1945) invoerde op de predikantenopleiding."
@@ -12,11 +12,10 @@ related_posts: []
 featured_image: "/uploads/dietrich_bonhoeffer.jpg"
 images:
 - "/uploads/dietrich_bonhoeffer.jpg"
+coauteur: Authors/DickLammers.md
 
 ---
 _“De eerste gedachte en het eerste woord van elke nieuwe dag behoren aan God toe”_
-
-Een bijdrage van Dick Lammers.
 
 Eerst een half uur stille tijd voor meditatie, dat was de nieuwe dagorde die de Duitse verzetstheoloog Dietrich Bonhoeffer (1906-1945) invoerde op de predikantenopleiding in Finkenwalde. Zijn studenten kregen de opdracht om na te denken over een tekstgedeelte uit de Schrift. Geen preek maken. Niet op zoek gaan naar nieuwe gedachten, maar wachten op wat de tekst jou persoonlijk te zeggen heeft.
 
@@ -31,7 +30,3 @@ Hoe het afliep? Het ontbrak de studenten aan concentratie. Sommigen vielen zelfs
 Verder lezen:
 
 Bonhoeffer, Dietrich (2014) _Verborgen omgang. Over leven in gemeenschap_, Lagendijk, L. W. (vert. en inl), Utrecht: Kok.
-
-Over de auteur van dit artikel:
-
-Dick Lammers is een theoloog en is een kenner van de werken van de Duitse theoloog en verzetsstrijder Dietrich Bonhoeffer. Hij stelde zijn inspirerende teksten beschikbaar voor deze website.
