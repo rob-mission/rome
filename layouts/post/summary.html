@@ -10,7 +10,7 @@
         <p class="f6 lh-copy mv0">
           {{ with .Params.coauteur }}
             {{ with $.Site.GetPage .}} 
-              Door {{.Page.Params.Name}}
+              Door {{.Params.Name}}
             {{end}}
           {{end}}
         </p> 
