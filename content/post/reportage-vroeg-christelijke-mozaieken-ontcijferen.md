@@ -1,7 +1,7 @@
 ---
 omit_header_text: true
 title: 'Reportage: Vroegchristelijke mozaïeken ontcijferen'
-date: 2020-06-15T18:00:00+00:00
+date: 2020-06-15T18:00:00.000+00:00
 description: In de vroegchristelijke kerken in Rome zijn prachtige mozaïeken te vinden,
   maar zonder kennis van deze oude wereld kijk je wellicht over belangrijke symbolen
   heen. In dit artikel worden de meest belangrijke vroegchristelijke symbolen ontcijferd.
@@ -12,6 +12,7 @@ related_posts: []
 featured_image: "/uploads/trastevere-1.jpg"
 images:
 - "/uploads/trastevere-1.jpg"
+coauteur: Authors/DickLammers.md
 
 ---
 In de vroegchristelijke kerken in Rome zijn prachtige mozaïeken te vinden, maar zonder kennis van deze oude wereld kijk je wellicht over belangrijke symbolen heen. In dit artikel worden de meest belangrijke vroegchristelijke symbolen ontcijferd.
@@ -81,5 +82,3 @@ _Santa Prassede in Rome (9e eeuw)._
 De ronde stralenkrans verwijst naar (gestorven) heiligen. De vierkante stralenkrans was voor belangrijke personen die nog leefden, vaak was dit de persoon die het mozaïek bekostigde.
 
 _Ad maiorem Dei gloriam - Tot meerdere glorie van God_
-
-Met dank aan Dick Lammers.
