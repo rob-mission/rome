@@ -35,6 +35,11 @@
       {{ end }}
     </header>
     <div class="nested-copy-line-height lh-copy {{ $.Param "post_content_classes"  | default "serif"}} f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l">
+      {{ with .Params.coauteur }}
+        {{ with $.Site.GetPage .}}
+          <div>Door <strong>{{.Params.name}}</strong></div>
+        {{end}}
+      {{end}}
       {{- .Content -}}
       {{- partial "tags.html" . -}}
       {{ with .Params.coauteur }}
@@ -49,11 +54,10 @@
             </div>
           {{ end }}
           <div class="blah w-100{{ if .Params.photo }} w-60-ns pl3-ns{{ end }}">
-            <div>Door <strong>{{.Params.name}}</strong></div>
-            {{ .Params.description}}
+            <div><strong>{{ .Params.description}}</strong></div>
+            <div>{{ .Content}}</div>
           </div>
         </div>
-        {{ .Content}}
         {{end}}
       {{end}}
       <div class="mt6 instapaper_ignoref">
