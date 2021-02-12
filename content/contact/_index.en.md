@@ -13,6 +13,6 @@ weight: "5"
 ---
 ## CONTACT
 
-Thanks for your interest in this ministry in Italy. For more information, feel free to get in touch and we will get back to you soon!
+Thanks for your interest in this ministry. For more information, feel free to get in touch and we will get back to you soon!
 
 {{< form-contact >}}

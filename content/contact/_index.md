@@ -13,6 +13,6 @@ weight: "5"
 ---
 ## CONTACT
 
-Bedankt voor uw interesse in deze bediening in Italië. Neem voor meer informatie contact met ons op.
+Bedankt voor uw interesse in deze bediening. Neem voor meer informatie contact met ons op.
 
 {{< form-contact >}}
