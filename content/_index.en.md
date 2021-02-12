@@ -1,6 +1,6 @@
 ---
 title: " "
-description: Impact Europe with the Gospel
+description: Impact Europe with the Gospel!
 
 ---
 I'm Rob. The history and culture of Western Europe has my interest and I dream of a revival of the Christian faith in Europe. 
