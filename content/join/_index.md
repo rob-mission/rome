@@ -21,15 +21,11 @@ Deze bediening hoeft niet al het benodigde geld binnen te hebben voordat praktis
 
 Alle donaties worden gebruikt om de bediening te financieren. Het is onze wens om verstandige beheerders te zijn van elk gegeven geschenk om het werk in Italië te ondersteunen. Wij beseffen dat we aan God en u verantwoording verschuldigd zijn voor het uitoefenen van goed rentmeesterschap van de fondsen die u ons hebt toevertrouwd.
 
-Waarom zou u bijdragen aan deze missie? Als God uw hart opent om te investeren in deze bediening, maakt uw bijdrage het mogelijk om het Evangelie te delen in een land met enorme spirituele noden. Italië is zeer godsdienstig, maar velen kennen Jezus Christus niet als hun persoonlijke Zaligmaker en Koning.
-
 ## Doneren
 
-Dat u het werk in Italië financieel ondersteunt is een zegen voor ons en we danken God voor uw aandeel in het zendingswerk. U kunt op verschillende manieren doneren. Neem gerust contact met ons op als u vragen hebt over donaties.
+Dat u het werk in Nederland financieel ondersteunt is een zegen voor ons en we danken God voor uw aandeel in het missionaire werk. U kunt op verschillende manieren doneren. Neem gerust contact met ons op als u vragen hebt over donaties.
 
 Deze bediening werkt met een stichting genaamd "Werkers in de Wijngaard". Deze organisatie werkt met vrijwilligers en voorziet in een geestelijke, financiële en praktische infrastructuur voor missionaire werkers. De stichting heeft een ANBI-status wat betekent dat uw giften fiscaal aftrekbaar zijn.
-
-![](/uploads/afbeelding2.png)
 
 ​**Bankgegevens stichting Werkers in de Wijngaard**
 
@@ -41,8 +37,6 @@ Bankrekening (IBAN): NL54RABO0357856333 (nieuw!)
 
 T.n.v.: Stichting Werkers in de Wijngaard
 
-O.v.v.: Kerkplantingswerk in Italië* (optioneel: uw naam en contactgegevens)
+O.v.v.: Rob van der Dussen* (optioneel: uw naam en contactgegevens)
 
 Website: www.werkersindewijngaard.org
-
-\*Dit is de naam van het project, alle donaties worden ingezet voor het werk van Rob van der Dussen.
