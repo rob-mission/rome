@@ -21,15 +21,11 @@ As a faith based ministry it does not need to have all funds in place before pra
 
 All donations will be used to finance a basic lifestyle and the ministry. It is our desire to be wise stewards of each gift given to support the movement. We view your support as a sacred trust, for we know that we are accountable to you and to God for exercising good stewardship of the funds you have entrusted to us.
 
-Why should you contribute to this mission? If God opens your heart to invest in this ministry, your contributions make it possible for us to share the Gospel in a country with huge spiritual needs. Italy is very religious, but there are so many people who do not know Jesus Christ as their personal Saviour and King.
-
 ## Donate
 
-Your partnership in the work of God in Italy is a blessing and we thank God for your part in this outreach ministry. You can donate in several ways. Feel free to contact our treasurer if you have any questions related to donations.
+Your partnership in the work of God in The Netherlands is a blessing and we thank God for your part in this outreach ministry. You can donate in several ways. Feel free to contact our treasurer if you have any questions related to donations.
 
 This ministry works with a foundation called “Werkers in de Wijngaard”. This organisation freely provides a spiritual, financial and practical infrastructure for missionaries.
-
-![](/uploads/afbeelding3.png)
 
 **Bank account foundation/charity in The Netherlands (donate in euro's)**
 
@@ -37,28 +33,14 @@ Bank name: Rabobank
 
 BIC/Swift code: RABONL2U.
 
-Bank account (IBAN): NL54RABO0357856333 (new!)
+Bank account (IBAN): NL54RABO0357856333
 
 To: Stichting Werkers in de Wijngaard
 
-Ref.: Churchplanting in Italy* (optional: your name and details)
+Ref.: Rob van der Dussen* (optional: your name and details)
 
 Website: www.werkersindewijngaard.org
-
-\*This is the name of the project, all donations go to the ministry of Rob van der Dussen.
 
 **Donate with another curency to the foundation in The Netherlands**
 
 Note that your bank may charge bankcosts. To avoid this, donate via transfergo.com to the foundation in The Netherlands. This is a good service in sending your money with very low transfer costs. Please send us via the contact form a confirmation of your payment when using this service.
-
-**Personal bank account ministry in United Kingdom (donate in pounds)**
-
-Bank name: Danske Bank
-
-Sortcode: 950149
-
-Accountnumber: 30304891
-
-To: J.A. van der Dussen
-
-Ref.: Churchplanting in Italy (optional: your name and details)
