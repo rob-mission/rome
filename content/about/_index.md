@@ -13,11 +13,11 @@ identifier: _contact
 weight: "1"
 
 ---
-Voor twee jaar (2019-2021) hoop ik een training in kerkplanting volgen in projecten in Italië (Rome en Perugia) die aangesloten zijn bij het City to City Europe netwerk. City to City Europe is een interkerkelijk netwerk van christelijke gemeenten. Zij zetten zich in om het Evangelie te verspreiden in Europese steden. Tijdens deze tweejarige training ontvang ik een leiderschapstraining, en zal ik me gaan verdiepen in het kerkplantingswerk. De mogelijkheid is er om betrokken te raken in huisgroepen, evangelisatie op de universiteiten en het opstarten van een nieuwe christelijke gemeenschap. Het doel is om toegerust te worden om nieuwe projecten te kunnen coördineren.
+Voor anderhalf jaar (2019-2021) heb ik een training in kerkplanting mogen volgen in twee projecten in Italië (Rome en Perugia) die aangesloten zijn bij het City-to-City Europe netwerk. Het doel was om toerusting te ontvangen voor het pionierswerk en tegelijkertijd de lokale Italiaanse gemeenten te dienen.
 
-Op dit moment ben ik betrokken in een christelijke gemeente in Perugia. Op de universiteit leid ik de studentengroep van de gemeente. Daarnaast ben ik onderdeel van een team dat een nieuw project op aan het starten is in een nabijgelegen stadje. Dit stadje heeft 40.000 inwoners maar tot nu toe zijn er nog geen christelijke gemeenten gevestigd.
+Vanaf voorjaar 2021 hoop ik aan de slag te gaan bij ICP Europe in Rotterdam. Dit is een internationale kerkplantingsorganisatie die de missie heeft om pioniers in heel Europa toe te rusten, niet alleen met het opstarten van nieuwe kerkplantingsprojecten maar ook om alle culturen te laten integreren binnen de gemeente. 
 
-Daarnaast werk ik samen met Stichting In de Rechte Straat (IRS). Zo schrijf ik voor de Italiaanstalige [website](https://www.sentiero-cristiano.it/) van IRS waar zinzoekers terecht kunnen met hun vragen over het christelijke geloof.
+Tegelijkertijd werk ik samen met Stichting In de Rechte Straat (IRS). Zo schrijf ik voor de Italiaanstalige [website](https://www.sentiero-cristiano.it/) van IRS waar zinzoekers terecht kunnen met hun vragen over het christelijke geloof.
 
 Recent zijn er enkele artikelen verschenen gerelateerd aan mijn werk in diverse media:
 
