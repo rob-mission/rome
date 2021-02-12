@@ -1,5 +1,5 @@
 ---
-title: " Verspreid het vuur van het Evangelie in Europa!"
+title: ''
 description: Verspreid het vuur van het Evangelie in Europa!
 
 ---
