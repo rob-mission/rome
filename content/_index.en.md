@@ -9,4 +9,4 @@ From Spring 2021 onwards, I hope to join ICP Europe in their mission to equip ne
 
 Through this website you can learn more about the missionary work. You can [subscribe](http://eepurl.com/gnTI9z "Subscribe newsletter") yourself to my newsletter as well.
 
->>WEBSITE UNDER CONSTRUCTION<<
+WEBSITE UNDER CONSTRUCTION
