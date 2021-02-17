@@ -1,7 +1,7 @@
 ---
 coauteur: Authors/RobvdDussen.md
 omit_header_text: true
-title: Drie vragen om de juiste keuze te maken
+title: Drie vragen om een goede keuze te maken
 date: 2021-02-17T08:00:00+00:00
 description: Het lijkt wel een legpuzzel van 3000 stuks. Van die kleine stukjes. Waar
   moet ik beginnen? Is het een begin zonder eind? Soms lijkt het zoeken naar Gods
