@@ -1,5 +1,5 @@
 ---
-title: ''
+title: " "
 description: Verspreid het vuur van het Evangelie in Europa!
 
 ---
@@ -9,4 +9,4 @@ Vanaf voorjaar 2021 hoop ik bij ICP Europe betrokken te raken in de missie om ni
 
 Via deze website blijft u op de hoogte van het missionaire werk. Meld u [hier](http://eepurl.com/gnT5rb "Aanmelden nieuwsbrief") aan voor de nieuwsbrief.
 
->>WEBSITE UNDER CONSTRUCTION<<
+WEBSITE UNDER CONSTRUCTION
