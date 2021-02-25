@@ -41,6 +41,6 @@ Toen we het licht weer instapten, legde hij uit dat het tijdens de eucharistisch
 
 **Gehoorzaamheid**
 
-Hoe liep het met ‘mijn’ priester af? Hij was spraakzaam, enthousiast en had af en toe een kritische noot. Blijkbaar was het te veel van het goede. Na zijn opleiding werd hij overgeplaatst naar ‘Siberië’. Voor de komende jaren mag hij de mis bedienen ergens in een afgelegen pelgrimsoord in Engeland.
+Hoe liep het met ‘mijn’ priester af? Hij was spraakzaam, enthousiast en had af en toe een kritische noot. Blijkbaar was het te veel van het goede. Na zijn opleiding werd hij overgeplaatst naar wat hij gekscherend ‘Siberië’ noemde. Voor de komende jaren mag hij de mis bedienen ergens in een afgelegen pelgrimsoord in Engeland. 
 
 “Geloven is vieren”, hoor ik hem nog zeggen. Maar tegen welke prijs?
