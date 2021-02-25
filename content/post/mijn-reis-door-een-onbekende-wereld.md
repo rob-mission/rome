@@ -31,7 +31,7 @@ We liepen langs de _San Clemente_ in Rome, een plaats waarvan men beweert dat da
 
 We waren op tijd: de zijdeur op het binnenplein bleek open te zijn. We stapten de ruimte binnen. Tralies en een houten ronde trommel in de muur vielen mij meteen op. Wat is dit? Achter de tralies bleek een oude non te zitten, met een zwarte hoofddoek. “Ingesloten zusters” fluisterde hij. Het is mogelijk om bij de nonnen, die dag en nacht voor de stad bidden, advies te vragen. De trommel blijkt een vondelingentrommel te zijn. Aan de ene kant werd een baby erin gestopt om er door een non aan de andere zijde van de muur uitgehaald te worden. Het weeshuis werd in 1872 opgeheven.
 
-“Hoe kunnen deze vrouwen zo lang ingesloten leven?” vroeg ik toen we de weg afdaalden. Niet _opgesloten_ maar _ingesloten_, omdat het om een vrijwillige keuze gaat. Hij vertelde mij over roeping, toewijding, offers brengen. Over zijn bezittingen die werden beheerd door familie, totdat hij besloot alles te verkopen om bij de Franciscaner minderbroeders binnen te treden. De drie knopen in zijn witte gevlochten koord, dat zijn donkergrijze habijt omhooghoudt, herinneren hieraan bij elke stap: celibaat, gehoorzaamheid en armoede. Het zijn de grondtonen van zijn leven. “Hoe krijg je de verzoeking eronder”, zo vroeg ik mijzelf hardop af. Gebed. Lopen met een kiezelsteentje in je schoen. Andere minderbroeders pakken zichzelf harder aan: een metalen riem met pinnen onder de habijt.
+“Hoe kunnen deze vrouwen zo lang ingesloten leven?” vroeg ik toen we de weg afdaalden. Niet _opgesloten_ maar _ingesloten_, omdat het om een vrijwillige keuze gaat. Hij vertelde mij over roeping, toewijding, offers brengen. Over zijn bezittingen die werden beheerd door familie, totdat hij besloot alles te verkopen om bij de Franciscaner minderbroeders binnen te treden. De drie knopen in zijn witte gevlochten koord, dat zijn donkergrijze habijt omhoog houdt, herinneren hieraan bij elke stap: celibaat, gehoorzaamheid en armoede. Het zijn de grondtonen van zijn leven. “Hoe krijg je de verzoeking eronder”, zo vroeg ik mijzelf hardop af. Gebed. Lopen met een kiezelsteentje in je schoen. Andere minderbroeders pakken zichzelf harder aan: een metalen riem met pinnen onder de habijt.
 
 **Aanbidding**
 
@@ -41,6 +41,6 @@ Toen we het licht weer instapten, legde hij uit dat het tijdens de eucharistisch
 
 **Gehoorzaamheid**
 
-Hoe liep het met ‘mijn’ priester af? Hij was spraakzaam, enthousiast en had af en toe een kritische noot. Blijkbaar was het te veel van het goede. Na zijn opleiding werd hij overgeplaatst naar wat hij gekscherend ‘Siberië’ noemde. Voor de komende jaren mag hij de mis bedienen ergens in een afgelegen pelgrimsoord in Engeland. 
+Hoe liep het met ‘mijn’ priester af? Hij was spraakzaam, enthousiast en had af en toe een kritische noot. Blijkbaar was het te veel van het goede. Na zijn opleiding werd hij overgeplaatst naar wat hij gekscherend ‘Siberië’ noemde. Voor de komende jaren mag hij de mis bedienen ergens in een afgelegen pelgrimsoord in Engeland.
 
 “Geloven is vieren”, hoor ik hem nog zeggen. Maar tegen welke prijs?
