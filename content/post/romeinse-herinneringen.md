@@ -12,7 +12,7 @@ tags:
 related_posts: []
 featured_image: "/uploads/rome-1.jpg"
 images:
-- "/uploads/dsc_0411.JPG"
+- "/uploads/rome-1.jpg"
 
 ---
 Wat als je als Nederlandse protestant in Italië de kans krijgt om de Rooms-Katholieke Kerk van binnenuit te leren kennen? Een Franciscaner priester nam mij mee op [ontdekkingsreis](https://www.robvanderdussen.com/nl/post/mijn-reis-door-een-onbekende-wereld/ "Mijn reis door een onbekende wereld") in Rome. Ik deel graag nog enkele Romeinse herinneringen.
