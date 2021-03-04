@@ -10,7 +10,7 @@ tags:
 - Rome
 - Rooms-Katholicisme
 related_posts: []
-featured_image: "/uploads/dsc_0411.JPG"
+featured_image: "/uploads/rome-1.jpg"
 images:
 - "/uploads/dsc_0411.JPG"
 
