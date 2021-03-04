@@ -15,7 +15,7 @@ images:
 - "/uploads/dsc_0411.JPG"
 
 ---
-Wat als je als Nederlandse protestant in Italië de kans krijgt om de Rooms-Katholieke Kerk van binnenuit te leren kennen? Een Franciscaner priester nam mij mee op ontdekkingsreis in Rome. Ik deel graag nog enkele Romeinse herinneringen.
+Wat als je als Nederlandse protestant in Italië de kans krijgt om de Rooms-Katholieke Kerk van binnenuit te leren kennen? Een Franciscaner priester nam mij mee op [ontdekkingsreis](https://www.robvanderdussen.com/nl/post/mijn-reis-door-een-onbekende-wereld/ "Mijn reis door een onbekende wereld") in Rome. Ik deel graag nog enkele Romeinse herinneringen.
 
 De avondschemering overviel Rome. Enkele lantaarnpalen sprongen aan, anderen bleven verdacht stil. We waren in _Monti,_ een van de hipste wijken in Rome. We liepen door een smal steegje en kwamen uit bij het _Colosseum_. De triomf van Rome, gehavend maar onverwoestbaar. Een vleugje eeuwigheidsgevoel. “Is dit je wel eens opgevallen”, vroeg hij, wijzend naar een groot beeld, nabij de ingang. “Het beeld van de Kanaänitische god _Moloch_!” Hij spuugde de woorden haast uit. Meteen kwamen de verhalen bij mij naar boven van de kinderen die als godenoffers in het zinderende beeld verdwenen. “Hoe is dit mogelijk op zo’n heilige plaats waar martelarenbloed heeft gestroomd?” vroeg hij zich geïrriteerd af. Hij draaide zich om en keek mij vragend aan.
 
@@ -31,4 +31,4 @@ Rome. Met de eeuwige stad had hij een haat-liefde verhouding, evenals ik. De sch
 
 ***
 
-[\[1\]](#_ftnref1) Vaticaan II staat voor het Tweede Vaticaans Concilie dat gekenmerkt wordt door inclusiviteit: ieder mens is op een bepaald manier in de katholieke eenheid verbonden.
+[\[1\]](#_ftnref1) Vaticaan II staat voor het Tweede Vaticaans Concilie dat gekenmerkt wordt door [inclusiviteit](https://www.robvanderdussen.com/nl/post/flirten-met-rome/ "Flirten met Rome"): ieder mens is op een bepaald manier in de katholieke eenheid verbonden.
