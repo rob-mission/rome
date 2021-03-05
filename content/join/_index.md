@@ -23,9 +23,9 @@ Alle donaties worden gebruikt om de bediening te financieren. Het is onze wens o
 
 ## Doneren
 
-Dat u het werk in Nederland financieel ondersteunt is een zegen voor ons en we danken God voor uw aandeel in het missionaire werk. U kunt op verschillende manieren doneren. Neem gerust contact met ons op als u vragen hebt over donaties.
+Dat u het werk wat ik in Nederland en daarbuiten mag doen financieel ondersteunt is een zegen en ik dank God voor uw aandeel in het missionaire werk. U kunt op verschillende manieren doneren. Neem gerust contact met ons op als u vragen hebt over donaties.
 
-Deze bediening werkt met een stichting genaamd "Werkers in de Wijngaard". Deze organisatie werkt met vrijwilligers en voorziet in een geestelijke, financiële en praktische infrastructuur voor missionaire werkers. De stichting heeft een ANBI-status wat betekent dat uw giften fiscaal aftrekbaar zijn.
+Deze bediening werkt met een stichting genaamd "Werkers in de Wijngaard". Deze organisatie werkt met vrijwilligers en voorziet in een financiële en praktische infrastructuur voor missionaire werkers. De stichting heeft een ANBI-status wat betekent dat uw giften fiscaal aftrekbaar zijn.
 
 ​**Bankgegevens stichting Werkers in de Wijngaard**
 
@@ -33,10 +33,10 @@ Naam: Rabobank
 
 BIC/Swift code: RABONL2U.
 
-Bankrekening (IBAN): NL54RABO0357856333 (nieuw!)
+Bankrekening (IBAN): NL54RABO0357856333
 
 T.n.v.: Stichting Werkers in de Wijngaard
 
-O.v.v.: Rob van der Dussen* (optioneel: uw naam en contactgegevens)
+O.v.v.: Kerkplanting Rob van der Dussen
 
 Website: www.werkersindewijngaard.org
