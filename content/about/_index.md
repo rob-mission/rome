@@ -13,13 +13,21 @@ identifier: _contact
 weight: "1"
 
 ---
-Voor anderhalf jaar (2019-2021) heb ik een training in kerkplanting mogen volgen in twee projecten in Italië (Rome en Perugia) die aangesloten zijn bij het City-to-City Europe netwerk. Het doel was om toerusting te ontvangen voor het pionierswerk en tegelijkertijd de lokale Italiaanse gemeenten te dienen.
+Voor anderhalf jaar (2019-2021) heb ik een training in kerkplanting gevolgd bij twee gemeenten in Italië (Rome en Perugia). In deze tijd kwam ik er steeds opnieuw achter: de velden zijn wit om te oogsten… en er is een chronisch tekort aan bekwame en beschikbare werkers. Er zijn zoveel plaatsen, zoals wijken in de grote stad of dorpjes op het platteland, waar Bijbelgetrouw onderwijs niet binnen bereik is. Hoe kunnen deze plaatsen bereikt worden? Dat was een vraag die mij bezighield. 
 
-Vanaf voorjaar 2021 hoop ik aan de slag te gaan bij ICP Europe in Rotterdam. Dit is een internationale kerkplantingsorganisatie die de missie heeft om pioniers in heel Europa toe te rusten, niet alleen met het opstarten van nieuwe kerkplantingsprojecten maar ook om alle culturen te laten integreren binnen de gemeente. 
+**Toerusting van nieuwe Europese kerkplanters**
 
-Tegelijkertijd werk ik samen met Stichting In de Rechte Straat (IRS). Zo schrijf ik voor de Italiaanstalige [website](https://www.sentiero-cristiano.it/) van IRS waar zinzoekers terecht kunnen met hun vragen over het christelijke geloof.
+Vanaf maart 2021 werk ik bij ICP Europe in Rotterdam. Bij Stichting Intercultural Church Plants ben ik betrokken in de missie om pioniers toe te rusten. In deze missie draag ik bij door contact te hebben met de werkers in het veld en op de hoogte te zijn van de vragen en obstakels waar zij mee worstelen. Op een relevante manier communiceer ik de ervaring en kennis uit de schatkist van ICP naar hen via een online platform. Dat doe ik door bijvoorbeeld het schrijven van artikelen, opnemen van podcasts met experts, videolessen, het ontwikkelen van trainingen of het mede-organiseren van een internationale conferentie.
 
-Recent zijn er enkele artikelen verschenen gerelateerd aan mijn werk in diverse media:
+**Online evangelisatie in Italië**
+
+Alhoewel ik wel uit Italië ben vertrokken, houd het land mij nog steeds bezig. Gelukkig kan ik de verbinding met Italië verder uitbouwen. Voor Stichting IRS schrijf ik o.a. antwoorden op geloofsvragen voor de Italiaanstalige evangelisatie [website](https://www.sentiero-cristiano.it/) Sentiero Cristiano en mag ik voorgangers spreken om te vragen naar de noden en de kansen waarbij IRS kan aansluiten!
+
+**Pionierswerk aan de Erasmus Universiteit**
+
+Vanaf mei 2021 hoop ik mee te bouwen aan een nieuwe christelijke gemeenschap op de Erasmus Universiteit die zal bestaan uit internationale studenten die samen het Woord van God bestuderen, samen eten en levensvragen op tafel durven te leggen. Ik zie er naar uit om te zien wat God in de jonge levens zal gaan doen!
+
+Er zijn enkele artikelen verschenen gerelateerd aan mijn werk in diverse media:
 
 22-04-2020 \[[IRS](https://www.irs.nu/source/rob-van-der-dussen-deze-crisis-is-een-test/ '"Deze crisis is een test"')\] “Deze crisis is een test”.
 
