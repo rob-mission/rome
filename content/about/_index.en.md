@@ -17,11 +17,11 @@ From 2019-2021 I received a traineeship in churchplanting in Rome and Perugia. I
 
 **Equipping new European pioneers**
 
-Since March 2021 I have been part of the ICP Europe team in Rotterdam. Their mission is to train new churchplanters in Europe to start up new intercultural communities. My role is to stay in touch with the workers in Europe’s frontlines in order to know the needs and the obstacles they face day to day. My work is focused on their equipment through articles, podcasts, videos, training programs and international conferences.
+Since March 2021 I work together with ICP Europe in Rotterdam. Their mission is to train new churchplanters in Europe to start up new intercultural communities. In the current project I provide equipment for the churchplanters by means of articles, podcasts, videos, training programs and international conferences.
 
 **Online evangelism in Italy**
 
-Although I left Italy in Winter 2021, this beautiful country remains close to my heart. I keep writing articles on the Christian faith for the evangelism [website](https://www.sentiero-cristiano.it/ "IRS") Sentiero Cristiano (Dutch foundation IRS). Besides that, I connect with pastors all over Italy in order to learn more about their challenges and to find relevant projects for collaboration.
+Although I left Italy in Winter 2021, this beautiful country remains close to my heart. A current project I partner in, exists of writing articles on the Christian faith for the evangelism [website](https://www.sentiero-cristiano.it/ "IRS") Sentiero Cristiano (Dutch foundation IRS). Besides that, I connect with pastors all over Italy in order to learn more about their challenges and to find relevant projects for collaboration.
 
 **Pioneering at University Campus**
 
