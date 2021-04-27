@@ -11,9 +11,9 @@ tags:
 - Rooms-Katholicisme
 - Rome
 related_posts: []
-featured_image: "/uploads/gabriella-clare-marino-4dlavi6qeaw-unsplash.jpg"
+featured_image: "/uploads/afbeelding1-1.jpg"
 images:
-- "/uploads/gabriella-clare-marino-4dlavi6qeaw-unsplash.jpg"
+- "/uploads/afbeelding1-1.jpg"
 
 ---
 Wat als je als Nederlandse protestant in Italië de kans krijgt om de Rooms-Katholieke Kerk van binnenuit te leren kennen? Een Franciscaner priester nam mij mee op [ontdekkingsreis](https://www.robvanderdussen.com/nl/post/mijn-reis-door-een-onbekende-wereld/ "Mijn reis door een onbekende wereld") in Rome. Dit is een derde blog, een vervolg op mijn tweede blog [Romeinse herinneringen](https://www.robvanderdussen.com/nl/post/romeinse-herinneringen/ "Romeinse herinneringen").
