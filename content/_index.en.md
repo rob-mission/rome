@@ -1,7 +1,8 @@
 ---
 title: " "
-description: "Impact Europe with the Gospel!"
-featured_image: "/uploads/Perugia.jpg"
+description: Impact Europe with the Gospel!
+featured_image: "/uploads/homepage.jpg"
+
 ---
 I am Rob. I am interested in the history and culture of Western Europe and I dream of a revival of the Christian faith in Europe.
 
