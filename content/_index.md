@@ -1,7 +1,7 @@
 ---
 title: " "
-description: Verspreid het vuur van het Evangelie in Europa!
-featured_image = "/uploads/Perugia.jpg"
+description: "Verspreid het vuur van het Evangelie in Europa!"
+featured_image: "/uploads/Perugia.jpg"
 ---
 Ik ben Rob. De geschiedenis en cultuur van West-Europa heeft mijn interesse en ik droom van een herleving van het christelijke geloof in Europa.
 
