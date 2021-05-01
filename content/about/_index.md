@@ -17,11 +17,11 @@ Voor anderhalf jaar (2019-2021) heb ik een training in kerkplanting gevolgd bij 
 
 **Toerusting van nieuwe Europese kerkplanters**
 
-Vanaf maart 2021 werk ik projectmatig samen met ICP Europe in Rotterdam. Stichting Intercultural Church Plants heeft als missie om pioniers toe te rusten. In deze missie draag ik bij door contact te hebben met de werkers in het veld en op de hoogte te zijn van de vragen en obstakels waar zij mee worstelen. Op een relevante manier communiceer ik de ervaring en kennis uit de schatkist van ICP naar de kerkplanters via een online platform. Dat doe ik door bijvoorbeeld het schrijven van artikelen, opnemen van podcasts met experts, videolessen, het ontwikkelen van trainingen of het mede-organiseren van een internationale conferentie.
+Vanaf maart 2021 ben ik projectmatig betrokken in de missie van ICP Europe in Rotterdam. Stichting Intercultural Church Plants heeft als doel om pioniers toe te rusten. In deze missie draag ik bij door contact te hebben met de werkers in het veld en op de hoogte te zijn van de vragen en obstakels waar zij mee worstelen. Op een relevante manier communiceer ik de ervaring en kennis uit de schatkist van ICP naar de kerkplanters via een online platform. Dat doe ik door bijvoorbeeld het schrijven van artikelen, opnemen van podcasts met experts, videolessen, het ontwikkelen van trainingen of het mede-organiseren van een internationale conferentie.
 
 **Online evangelisatie in Italië**
 
-Alhoewel ik uit Italië ben vertrokken, houd het land mij nog steeds bezig. Gelukkig kan ik de verbinding met Italië verder uitbouwen. Ik werk samen met Stichting IRS en schrijf voor hen o.a. antwoorden op geloofsvragen voor de Italiaanstalige evangelisatie [website](https://www.sentiero-cristiano.it/) Sentiero Cristiano. Daarnaast mag ik voorgangers spreken om te vragen naar de noden en de kansen waarbij IRS kan aansluiten!
+Alhoewel ik uit Italië ben vertrokken, houd het land mij nog steeds bezig. Gelukkig kan ik de verbinding met Italië verder uitbouwen. Projectmatig ben ik betrokken bij Stichting IRS en schrijf voor hen o.a. antwoorden op geloofsvragen voor de Italiaanstalige evangelisatie [website](https://www.sentiero-cristiano.it/) Sentiero Cristiano. Daarnaast mag ik voorgangers spreken om te vragen naar de noden en de kansen waarbij IRS kan aansluiten!
 
 **Pionierswerk aan de Erasmus Universiteit**
 
