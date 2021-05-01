@@ -17,7 +17,7 @@ weight: "3"
 
 Dat u het werk wat ik in Nederland en daarbuiten mag doen financieel ondersteunt is een zegen en ik dank God voor uw aandeel in het missionaire werk. 
 
-Rob werkt met een stichting genaamd "Werkers in de Wijngaard". De stichting heeft een ANBI-status wat betekent dat uw giften fiscaal aftrekbaar zijn.
+Ik ben aangesloten bij stichting "Werkers in de Wijngaard". De stichting heeft een ANBI-status wat betekent dat uw giften fiscaal aftrekbaar zijn.
 
 ​**Bankgegevens stichting Werkers in de Wijngaard**
 
