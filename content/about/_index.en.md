@@ -17,7 +17,7 @@ From 2019-2021 I received a traineeship in churchplanting in Rome and Perugia. I
 
 **Equipping new European pioneers**
 
-Since March 2021 I work together with ICP Europe in Rotterdam. Their mission is to train new churchplanters in Europe to start up new intercultural communities. In the current project I provide equipment for the churchplanters by means of articles, podcasts, videos, training programs and international conferences.
+Since March 2021 I collaborate with ICP Europe in Rotterdam. Their mission is to train new churchplanters in Europe to start up new intercultural communities. In the current project I provide equipment for the churchplanters by means of articles, podcasts, videos, training programs and international conferences.
 
 **Online evangelism in Italy**
 
