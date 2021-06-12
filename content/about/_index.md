@@ -29,12 +29,12 @@ Vanaf mei 2021 hoop ik mee te bouwen aan een nieuwe christelijke gemeenschap op 
 
 Hieronder vind u enkele artikelen die ik gepubliceerd heb of zijn verschenen over mijn werk: 
 
-07-06-2021 \[[IRS](https://www.irs.nu/source/ds-andrea-ferrari-gastvrijheid-is-voor-ons-de-manier-van-evangelisatie/ "Interview ds. Andrea Ferrari")\] "Ds. Andrea Ferrari: “Gastvrijheid is voor ons de manier van evangelisatie”."
+07-06-2021 \[[IRS](https://www.irs.nu/source/ds-andrea-ferrari-gastvrijheid-is-voor-ons-de-manier-van-evangelisatie/ "Interview ds. Andrea Ferrari")\] Ds. Andrea Ferrari: "Gastvrijheid is voor ons de manier van evangelisatie".
 
-14-12-2020 \[[IRS](https://www.irs.nu/source/de-vergeving-van-assisi/ "De vergeving van Assisi")\] "De vergeving van Assisi".
+14-12-2020 \[[IRS](https://www.irs.nu/source/de-vergeving-van-assisi/ "De vergeving van Assisi")\] De vergeving van Assisi.
 
-22-04-2020 \[[IRS](https://www.irs.nu/source/rob-van-der-dussen-deze-crisis-is-een-test/ '"Deze crisis is een test"')\] “Deze crisis is een test”.
+22-04-2020 \[[IRS](https://www.irs.nu/source/rob-van-der-dussen-deze-crisis-is-een-test/ '"Deze crisis is een test"')\] Deze crisis is een test.
 
 13-03-2020 \[[CIP](https://cip.nl/cip+/78415-christenen-merken-in-italie-ingrijpende-gevolgen-coronacrisis-wij-houden-minimaal-een-meter-afstand-van-anderen/ 'Christenen merken in Italië ingrijpende gevolgen coronacrisis"')\] Christenen merken in Italië ingrijpende gevolgen coronacrisis: "Wij houden minimaal een meter afstand van anderen".
 
-14-10-2019 \[[IRS](https://www.irs.nu/source/rob-van-der-dussen-de-oogst-in-italie-is-groot/ "“De oogst in Italië is groot”")\] “De oogst in Italië is groot”.
+14-10-2019 \[[IRS](https://www.irs.nu/source/rob-van-der-dussen-de-oogst-in-italie-is-groot/ "“De oogst in Italië is groot”")\] De oogst in Italië is groot.
