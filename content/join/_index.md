@@ -20,11 +20,10 @@ Dat u het werk wat ik in Nederland en daarbuiten mag doen financieel ondersteunt
 Ik ben aangesloten bij stichting "Werkers in de Wijngaard". De stichting heeft een ANBI-status wat betekent dat uw giften fiscaal aftrekbaar zijn.
 
 ​**Bankgegevens stichting Werkers in de Wijngaard**
-Naam: Rabobank
-BIC/Swift code: RABONL2U.
-Bankrekening (IBAN): NL54RABO0357856333
-T.n.v.: Stichting Werkers in de Wijngaard
-O.v.v.: Kerkplanting Rob van der Dussen
-Website: www.werkersindewijngaard.org
+Naam: Rabobank  
+BIC/Swift code: RABONL2U.  
+Bankrekening (IBAN): NL54RABO0357856333  
+T.n.v.: Stichting Werkers in de Wijngaard  
+O.v.v.: Kerkplanting Rob van der Dussen  
+Website: www.werkersindewijngaard.org  
 
-{{ partial "donorbox.html" . }}
