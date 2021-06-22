@@ -29,5 +29,3 @@ Ref.: Rob van der Dussen* (optional: your name and details)
 Website: www.werkersindewijngaard.org  
 **Donate with another curency to the foundation in The Netherlands**  
 Note that your bank may charge bankcosts. To avoid this, donate via transfergo.com to the foundation in The Netherlands. This is a good service in sending your money with very low transfer costs. Please send us via the contact form a confirmation of your payment when using this service.  
-
-{% partial "donorbox.html"  %}

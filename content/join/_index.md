@@ -20,6 +20,7 @@ Dat u het werk wat ik in Nederland en daarbuiten mag doen financieel ondersteunt
 Ik ben aangesloten bij stichting "Werkers in de Wijngaard". De stichting heeft een ANBI-status wat betekent dat uw giften fiscaal aftrekbaar zijn.
 
 ​**Bankgegevens stichting Werkers in de Wijngaard**
+
 Naam: Rabobank  
 BIC/Swift code: RABONL2U.  
 Bankrekening (IBAN): NL54RABO0357856333  
