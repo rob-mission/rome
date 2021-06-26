@@ -1,6 +1,6 @@
 ---
 title: " "
-description: Verspreid het vuur van het Evangelie in Europa!
+description: Het Evangelie bekendmaken & gelovigen toerusten!
 featured_image: "/uploads/brug.jpg"
 
 ---
