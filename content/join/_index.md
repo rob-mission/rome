@@ -1,6 +1,6 @@
 ---
 title: Doe mee
-banner_image: "/uploads/join_the_movement.jpg"
+banner_image: "/uploads/brug.jpg"
 layout: landing-page
 show_news: false
 pictures:
