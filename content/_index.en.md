@@ -1,6 +1,6 @@
 ---
 title: " "
-description: Impact Europe with the Gospel!
+description: Sharing the Gospel & equipping pioneers!
 featured_image: "/uploads/brug.jpg"
 
 ---
