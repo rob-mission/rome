@@ -15,7 +15,7 @@ tags:
 related_posts: []
 featured_image: "/uploads/ddp-isc9pq9f-k8-unsplash5.jpg"
 images:
-- "/uploads/ddp-isc9pq9f-k8-unsplash.jpg"
+- "/uploads/maria-afbeelding.jpg"
 
 ---
 Maria is niet los verkrijgbaar. Ze hoort er helemaal bij. Enerzijds in de kerk, anderzijds bij Israël. Zij laat bij uitstek zien wat de kerk is. Dat is wat prof. dr. Huijgen in acht diverse hoofdstukken uiteenzet in zijn nieuwste publicatie _Maria, icoon van genade._
