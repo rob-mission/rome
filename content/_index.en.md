@@ -1,6 +1,6 @@
 ---
 title: " "
-description: Sharing the Gospel & equipping pioneers!
+description: Sharing the Gospel & equipping pioneers, for the glory of God
 featured_image: "/uploads/brug.jpg"
 
 ---
