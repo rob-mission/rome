@@ -1,6 +1,6 @@
 ---
 title: " "
-description: Het Evangelie bekendmaken & gelovigen toerusten!
+description: Het Evangelie bekendmaken & gelovigen toerusten, tot eer van God!
 featured_image: "/uploads/brug.jpg"
 
 ---
