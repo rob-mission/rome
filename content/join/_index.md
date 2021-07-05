@@ -13,6 +13,14 @@ identifier: _join
 weight: "3"
 
 ---
+## Rommelroute Tholen
+
+**24-07-21**
+
+Wilt u ook meedoen? Stuur een mail naar rommelroutetholen@outlook.com. Voor slechts €2,50 komt u op de kaart te staan als deelnemer van Rommelroute Tholen 2021! Mis het niet.
+
+Volg ons op [Facebook](https://www.facebook.com/groups/2893393537588316 "Rommelroute Facebook"): 
+
 ## Doneren
 
 Dat u het werk wat ik in Nederland en daarbuiten mag doen financieel ondersteunt is een zegen en ik dank God voor uw aandeel in het missionaire werk.
