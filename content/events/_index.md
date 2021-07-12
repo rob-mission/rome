@@ -13,6 +13,3 @@ weight: "5"
 
 ---
 ## Events
-
-Gebeurtenissen!
-
