@@ -33,7 +33,7 @@ sections:
   path: content/events
   label: Events
   create: all
-  match: "*"
+  match: "**/*"
 - type: directory
   path: content/Authors
   label: Authors
