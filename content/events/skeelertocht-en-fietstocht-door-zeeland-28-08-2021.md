@@ -5,8 +5,9 @@ date: 2021-07-12T08:00:00+00:00
 description: Doe mee met de sponsortocht door Zeeland!
 tags: []
 related_posts: []
-featured_image: "/uploads/howard-bouchevereau-brdo4c-0h_s-unsplash.jpg"
-images: []
+featured_image: "/uploads/knipsel.JPG"
+images:
+- "/uploads/knipsel.JPG"
 
 ---
 ![](/uploads/knipsel.JPG)
